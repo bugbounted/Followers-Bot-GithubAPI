@@ -42,7 +42,7 @@ jobs:
       - name: push commits
         run: |
           git add .
-          git config user.name 'yasserbdj96'
-          git config user.email 'by.root96@gmail.com'
+          git config user.name 'bugbounted'
+          git config user.email 'pmbeman@pm.me'
           git commit -am "update MY FOLLOWERS list"
           git push 
