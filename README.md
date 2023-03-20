@@ -1,6 +1,7 @@
 <p>This bot is programmed on GithubAPI in order to increase the number of followers on github, it follows about 9 people every 20 minutes, or about 600 every 24 hours, and follows those who follow me every 24 hours, and unfollows members who have been followed and did not follow me every week.</p><h1>My Followers:</h1><br>
 <a href="https://github.com/mitblan"><img src="https://avatars.githubusercontent.com/u/3195?v=4" alt="mitblan" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/koduki"><img src="https://avatars.githubusercontent.com/u/18462?v=4" alt="koduki" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/schneiderfelipe"><img src="https://avatars.githubusercontent.com/u/37125?v=4" alt="schneiderfelipe" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/0xN0x"><img src="https://avatars.githubusercontent.com/u/1781547?v=4" alt="0xN0x" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/svenerbeck"><img src="https://avatars.githubusercontent.com/u/12124066?v=4" alt="svenerbeck" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/mhmdhoseinzade"><img src="https://avatars.githubusercontent.com/u/27922739?v=4" alt="mhmdhoseinzade" style="height:50px;width:50px;"/></a>
@@ -10,6 +11,7 @@
 <a href="https://github.com/MohammedHarmouche"><img src="https://avatars.githubusercontent.com/u/56594992?v=4" alt="MohammedHarmouche" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/BEPb"><img src="https://avatars.githubusercontent.com/u/57312267?v=4" alt="BEPb" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/MosFazli"><img src="https://avatars.githubusercontent.com/u/69136464?v=4" alt="MosFazli" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/DGS1337"><img src="https://avatars.githubusercontent.com/u/72562709?v=4" alt="DGS1337" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/WinterBoy-Galois"><img src="https://avatars.githubusercontent.com/u/72891761?v=4" alt="WinterBoy-Galois" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/dev-aniketj"><img src="https://avatars.githubusercontent.com/u/81229551?v=4" alt="dev-aniketj" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/JubayerRiyad"><img src="https://avatars.githubusercontent.com/u/81983264?v=4" alt="JubayerRiyad" style="height:50px;width:50px;"/></a>
@@ -34,4 +36,5 @@
 <a href="https://github.com/l0stlog"><img src="https://avatars.githubusercontent.com/u/124115839?v=4" alt="l0stlog" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/muraidaddy"><img src="https://avatars.githubusercontent.com/u/126224746?v=4" alt="muraidaddy" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/apo77yon"><img src="https://avatars.githubusercontent.com/u/126520850?v=4" alt="apo77yon" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 19/03/2023 02:41:47 (UTC)</h4><br>
+<a href="https://github.com/lilith377"><img src="https://avatars.githubusercontent.com/u/127235106?v=4" alt="lilith377" style="height:50px;width:50px;"/></a>
+<br><h4>last update at : 20/03/2023 02:38:05 (UTC)</h4><br>
