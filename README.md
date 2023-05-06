@@ -20,7 +20,6 @@
 <a href="https://github.com/hemenxyz"><img src="https://avatars.githubusercontent.com/u/28898647?v=4" alt="hemenxyz" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Kwynto"><img src="https://avatars.githubusercontent.com/u/31433211?v=4" alt="Kwynto" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/kulikov-dev"><img src="https://avatars.githubusercontent.com/u/40471760?v=4" alt="kulikov-dev" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/kirpalsingh17"><img src="https://avatars.githubusercontent.com/u/43490111?v=4" alt="kirpalsingh17" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/PremChapagain"><img src="https://avatars.githubusercontent.com/u/47587012?v=4" alt="PremChapagain" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/JeffersonRPM"><img src="https://avatars.githubusercontent.com/u/48998618?v=4" alt="JeffersonRPM" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/khanmhmdi"><img src="https://avatars.githubusercontent.com/u/53315077?v=4" alt="khanmhmdi" style="height:50px;width:50px;"/></a>
@@ -94,4 +93,4 @@
 <a href="https://github.com/puf-puf-42"><img src="https://avatars.githubusercontent.com/u/129638288?v=4" alt="puf-puf-42" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/alineai21"><img src="https://avatars.githubusercontent.com/u/130425323?v=4" alt="alineai21" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/haoadsj9"><img src="https://avatars.githubusercontent.com/u/130531161?v=4" alt="haoadsj9" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 05/05/2023 02:24:45 (UTC)</h4><br>
+<br><h4>last update at : 06/05/2023 02:23:02 (UTC)</h4><br>
