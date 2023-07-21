@@ -124,4 +124,6 @@
 <a href="https://github.com/MildDrizzle"><img src="https://avatars.githubusercontent.com/u/133192705?v=4" alt="MildDrizzle" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/davidgit0408"><img src="https://avatars.githubusercontent.com/u/133590152?v=4" alt="davidgit0408" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/lovelysweet1017"><img src="https://avatars.githubusercontent.com/u/135192205?v=4" alt="lovelysweet1017" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 20/07/2023 02:28:18 (UTC)</h4><br>
+<a href="https://github.com/Riddle-99"><img src="https://avatars.githubusercontent.com/u/135312522?v=4" alt="Riddle-99" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/michaelhayashi322"><img src="https://avatars.githubusercontent.com/u/139736568?v=4" alt="michaelhayashi322" style="height:50px;width:50px;"/></a>
+<br><h4>last update at : 21/07/2023 02:30:08 (UTC)</h4><br>
