@@ -91,7 +91,6 @@
 <a href="https://github.com/gittubbies"><img src="https://avatars.githubusercontent.com/u/114693514?v=4" alt="gittubbies" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/carinalisboa"><img src="https://avatars.githubusercontent.com/u/114781664?v=4" alt="carinalisboa" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Raushan1234567"><img src="https://avatars.githubusercontent.com/u/115460955?v=4" alt="Raushan1234567" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/isyuricunha"><img src="https://avatars.githubusercontent.com/u/115634315?v=4" alt="isyuricunha" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/lovely0806"><img src="https://avatars.githubusercontent.com/u/115808599?v=4" alt="lovely0806" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Mohamed988o"><img src="https://avatars.githubusercontent.com/u/115921235?v=4" alt="Mohamed988o" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/talentedDev0703"><img src="https://avatars.githubusercontent.com/u/117049160?v=4" alt="talentedDev0703" style="height:50px;width:50px;"/></a>
@@ -135,4 +134,4 @@
 <a href="https://github.com/vogoban"><img src="https://avatars.githubusercontent.com/u/140538757?v=4" alt="vogoban" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Sam666O"><img src="https://avatars.githubusercontent.com/u/141770099?v=4" alt="Sam666O" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/alternbit"><img src="https://avatars.githubusercontent.com/u/142718182?v=4" alt="alternbit" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 26/08/2023 02:11:10 (UTC)</h4><br>
+<br><h4>last update at : 27/08/2023 02:14:52 (UTC)</h4><br>
