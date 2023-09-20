@@ -31,7 +31,6 @@
 <a href="https://github.com/imlauera"><img src="https://avatars.githubusercontent.com/u/44532811?v=4" alt="imlauera" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/PremChapagain"><img src="https://avatars.githubusercontent.com/u/47587012?v=4" alt="PremChapagain" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/romanofficial"><img src="https://avatars.githubusercontent.com/u/47697490?v=4" alt="romanofficial" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/tensorush"><img src="https://avatars.githubusercontent.com/u/48649707?v=4" alt="tensorush" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/ip681"><img src="https://avatars.githubusercontent.com/u/48838737?v=4" alt="ip681" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/JeffersonRPM"><img src="https://avatars.githubusercontent.com/u/48998618?v=4" alt="JeffersonRPM" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/i12cu84"><img src="https://avatars.githubusercontent.com/u/49804511?v=4" alt="i12cu84" style="height:50px;width:50px;"/></a>
@@ -57,7 +56,6 @@
 <a href="https://github.com/JubayerRiyad"><img src="https://avatars.githubusercontent.com/u/81983264?v=4" alt="JubayerRiyad" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/ethanflower1903"><img src="https://avatars.githubusercontent.com/u/84658436?v=4" alt="ethanflower1903" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Tanmayee1507"><img src="https://avatars.githubusercontent.com/u/86916999?v=4" alt="Tanmayee1507" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/tysaiwdev"><img src="https://avatars.githubusercontent.com/u/87986195?v=4" alt="tysaiwdev" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/abolfazlchaman"><img src="https://avatars.githubusercontent.com/u/88617114?v=4" alt="abolfazlchaman" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/aplus-developer"><img src="https://avatars.githubusercontent.com/u/89198066?v=4" alt="aplus-developer" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/mrpaziresh"><img src="https://avatars.githubusercontent.com/u/90142173?v=4" alt="mrpaziresh" style="height:50px;width:50px;"/></a>
@@ -144,4 +142,4 @@
 <a href="https://github.com/alternbit"><img src="https://avatars.githubusercontent.com/u/142718182?v=4" alt="alternbit" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/mahseema"><img src="https://avatars.githubusercontent.com/u/143227828?v=4" alt="mahseema" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/koji-keiseki"><img src="https://avatars.githubusercontent.com/u/144947831?v=4" alt="koji-keiseki" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 19/09/2023 02:16:32 (UTC)</h4><br>
+<br><h4>last update at : 20/09/2023 02:15:23 (UTC)</h4><br>
