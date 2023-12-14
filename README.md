@@ -23,6 +23,7 @@
 <a href="https://github.com/zakuru"><img src="https://avatars.githubusercontent.com/u/171174?v=4" alt="zakuru" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/alejandrosuarez"><img src="https://avatars.githubusercontent.com/u/180114?v=4" alt="alejandrosuarez" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/manoelhc"><img src="https://avatars.githubusercontent.com/u/185583?v=4" alt="manoelhc" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/SlipMage"><img src="https://avatars.githubusercontent.com/u/203756?v=4" alt="SlipMage" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/ManojKamat"><img src="https://avatars.githubusercontent.com/u/209821?v=4" alt="ManojKamat" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/157"><img src="https://avatars.githubusercontent.com/u/1020018?v=4" alt="157" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/0xN0x"><img src="https://avatars.githubusercontent.com/u/1781547?v=4" alt="0xN0x" style="height:50px;width:50px;"/></a>
@@ -183,4 +184,4 @@
 <a href="https://github.com/cvs0"><img src="https://avatars.githubusercontent.com/u/143862758?v=4" alt="cvs0" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/koji-keiseki"><img src="https://avatars.githubusercontent.com/u/144947831?v=4" alt="koji-keiseki" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/codeWizard337"><img src="https://avatars.githubusercontent.com/u/151155288?v=4" alt="codeWizard337" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 13/12/2023 02:23:41 (UTC)</h4><br>
+<br><h4>last update at : 14/12/2023 02:21:52 (UTC)</h4><br>
