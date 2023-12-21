@@ -101,12 +101,10 @@
 <a href="https://github.com/MostPow3rful"><img src="https://avatars.githubusercontent.com/u/96079030?v=4" alt="MostPow3rful" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/imyasha"><img src="https://avatars.githubusercontent.com/u/96626701?v=4" alt="imyasha" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/jlianacastillo"><img src="https://avatars.githubusercontent.com/u/96964513?v=4" alt="jlianacastillo" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/cumsoft"><img src="https://avatars.githubusercontent.com/u/97250816?v=4" alt="cumsoft" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Syipmong"><img src="https://avatars.githubusercontent.com/u/98860942?v=4" alt="Syipmong" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/korizyx"><img src="https://avatars.githubusercontent.com/u/99187000?v=4" alt="korizyx" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/abrehan2"><img src="https://avatars.githubusercontent.com/u/100872683?v=4" alt="abrehan2" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Scriptkiddo2000"><img src="https://avatars.githubusercontent.com/u/101963149?v=4" alt="Scriptkiddo2000" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/Sings168"><img src="https://avatars.githubusercontent.com/u/102612762?v=4" alt="Sings168" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/lincon-ac"><img src="https://avatars.githubusercontent.com/u/103010131?v=4" alt="lincon-ac" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/mm8f"><img src="https://avatars.githubusercontent.com/u/104580716?v=4" alt="mm8f" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/honokini"><img src="https://avatars.githubusercontent.com/u/104803215?v=4" alt="honokini" style="height:50px;width:50px;"/></a>
@@ -187,4 +185,4 @@
 <a href="https://github.com/koji-keiseki"><img src="https://avatars.githubusercontent.com/u/144947831?v=4" alt="koji-keiseki" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/lolegaz33"><img src="https://avatars.githubusercontent.com/u/149488208?v=4" alt="lolegaz33" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/codeWizard337"><img src="https://avatars.githubusercontent.com/u/151155288?v=4" alt="codeWizard337" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 20/12/2023 02:07:39 (UTC)</h4><br>
+<br><h4>last update at : 21/12/2023 02:21:21 (UTC)</h4><br>
