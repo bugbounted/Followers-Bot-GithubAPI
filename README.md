@@ -26,6 +26,7 @@
 <a href="https://github.com/manoelhc"><img src="https://avatars.githubusercontent.com/u/185583?v=4" alt="manoelhc" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/SlipMage"><img src="https://avatars.githubusercontent.com/u/203756?v=4" alt="SlipMage" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/ManojKamat"><img src="https://avatars.githubusercontent.com/u/209821?v=4" alt="ManojKamat" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/khairilanuar"><img src="https://avatars.githubusercontent.com/u/227631?v=4" alt="khairilanuar" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/157"><img src="https://avatars.githubusercontent.com/u/1020018?v=4" alt="157" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/0xN0x"><img src="https://avatars.githubusercontent.com/u/1781547?v=4" alt="0xN0x" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/CharlyRielle"><img src="https://avatars.githubusercontent.com/u/2490528?v=4" alt="CharlyRielle" style="height:50px;width:50px;"/></a>
@@ -188,4 +189,4 @@
 <a href="https://github.com/koji-keiseki"><img src="https://avatars.githubusercontent.com/u/144947831?v=4" alt="koji-keiseki" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/lolegaz33"><img src="https://avatars.githubusercontent.com/u/149488208?v=4" alt="lolegaz33" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/codeWizard337"><img src="https://avatars.githubusercontent.com/u/151155288?v=4" alt="codeWizard337" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 06/01/2024 02:20:24 (UTC)</h4><br>
+<br><h4>last update at : 07/01/2024 02:26:17 (UTC)</h4><br>
