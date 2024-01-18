@@ -150,6 +150,7 @@
 <a href="https://github.com/OracleBrain"><img src="https://avatars.githubusercontent.com/u/121432807?v=4" alt="OracleBrain" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Swanstonn"><img src="https://avatars.githubusercontent.com/u/122443988?v=4" alt="Swanstonn" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/AllTwinkleStars"><img src="https://avatars.githubusercontent.com/u/122667965?v=4" alt="AllTwinkleStars" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/juliofleitas"><img src="https://avatars.githubusercontent.com/u/122684703?v=4" alt="juliofleitas" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Hanieh-mn"><img src="https://avatars.githubusercontent.com/u/122727909?v=4" alt="Hanieh-mn" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/asgharali101"><img src="https://avatars.githubusercontent.com/u/122790377?v=4" alt="asgharali101" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/udborets"><img src="https://avatars.githubusercontent.com/u/123362580?v=4" alt="udborets" style="height:50px;width:50px;"/></a>
@@ -192,4 +193,6 @@
 <a href="https://github.com/koji-keiseki"><img src="https://avatars.githubusercontent.com/u/144947831?v=4" alt="koji-keiseki" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/lolegaz33"><img src="https://avatars.githubusercontent.com/u/149488208?v=4" alt="lolegaz33" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/codeWizard337"><img src="https://avatars.githubusercontent.com/u/151155288?v=4" alt="codeWizard337" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 17/01/2024 02:24:35 (UTC)</h4><br>
+<a href="https://github.com/stan8086"><img src="https://avatars.githubusercontent.com/u/154884797?v=4" alt="stan8086" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/nana9292"><img src="https://avatars.githubusercontent.com/u/155925965?v=4" alt="nana9292" style="height:50px;width:50px;"/></a>
+<br><h4>last update at : 18/01/2024 02:24:13 (UTC)</h4><br>
