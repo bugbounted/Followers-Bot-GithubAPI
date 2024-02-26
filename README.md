@@ -24,7 +24,6 @@
 <a href="https://github.com/snettscom"><img src="https://avatars.githubusercontent.com/u/175748?v=4" alt="snettscom" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/alejandrosuarez"><img src="https://avatars.githubusercontent.com/u/180114?v=4" alt="alejandrosuarez" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/manoelhc"><img src="https://avatars.githubusercontent.com/u/185583?v=4" alt="manoelhc" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/SlipMage"><img src="https://avatars.githubusercontent.com/u/203756?v=4" alt="SlipMage" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/ManojKamat"><img src="https://avatars.githubusercontent.com/u/209821?v=4" alt="ManojKamat" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/khairilanuar"><img src="https://avatars.githubusercontent.com/u/227631?v=4" alt="khairilanuar" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/157"><img src="https://avatars.githubusercontent.com/u/1020018?v=4" alt="157" style="height:50px;width:50px;"/></a>
@@ -209,4 +208,4 @@
 <a href="https://github.com/stan8086"><img src="https://avatars.githubusercontent.com/u/154884797?v=4" alt="stan8086" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/nana9292"><img src="https://avatars.githubusercontent.com/u/155925965?v=4" alt="nana9292" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/champion10873"><img src="https://avatars.githubusercontent.com/u/157318675?v=4" alt="champion10873" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 25/02/2024 02:17:21 (UTC)</h4><br>
+<br><h4>last update at : 26/02/2024 02:18:27 (UTC)</h4><br>
