@@ -174,6 +174,7 @@
 <a href="https://github.com/udborets"><img src="https://avatars.githubusercontent.com/u/123362580?v=4" alt="udborets" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Sophiehub89"><img src="https://avatars.githubusercontent.com/u/123826764?v=4" alt="Sophiehub89" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/PlatypusSec"><img src="https://avatars.githubusercontent.com/u/123879376?v=4" alt="PlatypusSec" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/Giangplay"><img src="https://avatars.githubusercontent.com/u/123900060?v=4" alt="Giangplay" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Emakiflom"><img src="https://avatars.githubusercontent.com/u/125467587?v=4" alt="Emakiflom" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Rodrigo-Cn"><img src="https://avatars.githubusercontent.com/u/125518378?v=4" alt="Rodrigo-Cn" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Makitey"><img src="https://avatars.githubusercontent.com/u/125828184?v=4" alt="Makitey" style="height:50px;width:50px;"/></a>
@@ -226,4 +227,4 @@
 <a href="https://github.com/shinyjohn0401"><img src="https://avatars.githubusercontent.com/u/156517573?v=4" alt="shinyjohn0401" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/champion10873"><img src="https://avatars.githubusercontent.com/u/157318675?v=4" alt="champion10873" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/AnthenaMatrix"><img src="https://avatars.githubusercontent.com/u/162960507?v=4" alt="AnthenaMatrix" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 09/04/2024 02:16:50 (UTC)</h4><br>
+<br><h4>last update at : 10/04/2024 02:16:49 (UTC)</h4><br>
