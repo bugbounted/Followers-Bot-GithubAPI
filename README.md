@@ -110,7 +110,6 @@
 <a href="https://github.com/Ela-Fhd"><img src="https://avatars.githubusercontent.com/u/88094638?v=4" alt="Ela-Fhd" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/abolfazlchaman"><img src="https://avatars.githubusercontent.com/u/88617114?v=4" alt="abolfazlchaman" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/aplus-developer"><img src="https://avatars.githubusercontent.com/u/89198066?v=4" alt="aplus-developer" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/amir-khaleghi"><img src="https://avatars.githubusercontent.com/u/89293266?v=4" alt="amir-khaleghi" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/appleusa"><img src="https://avatars.githubusercontent.com/u/90065717?v=4" alt="appleusa" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/mrpaziresh"><img src="https://avatars.githubusercontent.com/u/90142173?v=4" alt="mrpaziresh" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Techking5287"><img src="https://avatars.githubusercontent.com/u/91337512?v=4" alt="Techking5287" style="height:50px;width:50px;"/></a>
@@ -231,5 +230,4 @@
 <a href="https://github.com/nana9292"><img src="https://avatars.githubusercontent.com/u/155925965?v=4" alt="nana9292" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/champion10873"><img src="https://avatars.githubusercontent.com/u/157318675?v=4" alt="champion10873" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/thepiratehub"><img src="https://avatars.githubusercontent.com/u/166730728?v=4" alt="thepiratehub" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/fo110wme4f0llowu"><img src="https://avatars.githubusercontent.com/u/168410254?v=4" alt="fo110wme4f0llowu" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 06/05/2024 02:24:03 (UTC)</h4><br>
+<br><h4>last update at : 07/05/2024 02:26:55 (UTC)</h4><br>
