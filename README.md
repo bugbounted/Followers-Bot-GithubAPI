@@ -98,7 +98,6 @@
 <a href="https://github.com/dev-aniketj"><img src="https://avatars.githubusercontent.com/u/81229551?v=4" alt="dev-aniketj" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Omar95-A"><img src="https://avatars.githubusercontent.com/u/81801245?v=4" alt="Omar95-A" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/JubayerRiyad"><img src="https://avatars.githubusercontent.com/u/81983264?v=4" alt="JubayerRiyad" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/getintorj"><img src="https://avatars.githubusercontent.com/u/84499372?v=4" alt="getintorj" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/amir4v"><img src="https://avatars.githubusercontent.com/u/84547283?v=4" alt="amir4v" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/shakiliitju"><img src="https://avatars.githubusercontent.com/u/84621547?v=4" alt="shakiliitju" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/ethanflower1903"><img src="https://avatars.githubusercontent.com/u/84658436?v=4" alt="ethanflower1903" style="height:50px;width:50px;"/></a>
@@ -235,4 +234,4 @@
 <a href="https://github.com/champion10873"><img src="https://avatars.githubusercontent.com/u/157318675?v=4" alt="champion10873" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/manmethlegend"><img src="https://avatars.githubusercontent.com/u/164915303?v=4" alt="manmethlegend" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/thepiratehub"><img src="https://avatars.githubusercontent.com/u/166730728?v=4" alt="thepiratehub" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 18/05/2024 02:22:37 (UTC)</h4><br>
+<br><h4>last update at : 19/05/2024 02:25:16 (UTC)</h4><br>
