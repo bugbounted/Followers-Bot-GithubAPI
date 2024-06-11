@@ -106,7 +106,6 @@
 <a href="https://github.com/ethanflower1903"><img src="https://avatars.githubusercontent.com/u/84658436?v=4" alt="ethanflower1903" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/NimaCodez"><img src="https://avatars.githubusercontent.com/u/85389307?v=4" alt="NimaCodez" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/IIAmir"><img src="https://avatars.githubusercontent.com/u/86028513?v=4" alt="IIAmir" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/ZiyovuddinTolipov"><img src="https://avatars.githubusercontent.com/u/86546933?v=4" alt="ZiyovuddinTolipov" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/emiroow"><img src="https://avatars.githubusercontent.com/u/86824829?v=4" alt="emiroow" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Tanmayee1507"><img src="https://avatars.githubusercontent.com/u/86916999?v=4" alt="Tanmayee1507" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/MrArnaudMichel"><img src="https://avatars.githubusercontent.com/u/87248697?v=4" alt="MrArnaudMichel" style="height:50px;width:50px;"/></a>
@@ -240,4 +239,4 @@
 <a href="https://github.com/manmethlegend"><img src="https://avatars.githubusercontent.com/u/164915303?v=4" alt="manmethlegend" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/thepiratehub"><img src="https://avatars.githubusercontent.com/u/166730728?v=4" alt="thepiratehub" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/CavinMatrics"><img src="https://avatars.githubusercontent.com/u/171125505?v=4" alt="CavinMatrics" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 10/06/2024 02:29:26 (UTC)</h4><br>
+<br><h4>last update at : 11/06/2024 02:27:58 (UTC)</h4><br>
