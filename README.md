@@ -240,5 +240,6 @@
 <a href="https://github.com/matijamicunovic629"><img src="https://avatars.githubusercontent.com/u/159045093?v=4" alt="matijamicunovic629" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/manmethlegend"><img src="https://avatars.githubusercontent.com/u/164915303?v=4" alt="manmethlegend" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/thepiratehub"><img src="https://avatars.githubusercontent.com/u/166730728?v=4" alt="thepiratehub" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/LegendaryNaix"><img src="https://avatars.githubusercontent.com/u/170892541?v=4" alt="LegendaryNaix" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/CavinMatrics"><img src="https://avatars.githubusercontent.com/u/171125505?v=4" alt="CavinMatrics" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 15/06/2024 02:26:27 (UTC)</h4><br>
+<br><h4>last update at : 16/06/2024 02:30:14 (UTC)</h4><br>
