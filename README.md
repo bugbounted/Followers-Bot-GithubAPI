@@ -39,7 +39,6 @@
 <a href="https://github.com/spiralni"><img src="https://avatars.githubusercontent.com/u/339101?v=4" alt="spiralni" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/157"><img src="https://avatars.githubusercontent.com/u/1020018?v=4" alt="157" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/0xN0x"><img src="https://avatars.githubusercontent.com/u/1781547?v=4" alt="0xN0x" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/mervick"><img src="https://avatars.githubusercontent.com/u/2429298?v=4" alt="mervick" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/CharlyRielle"><img src="https://avatars.githubusercontent.com/u/2490528?v=4" alt="CharlyRielle" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/kenjinote"><img src="https://avatars.githubusercontent.com/u/2605401?v=4" alt="kenjinote" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/gamemann"><img src="https://avatars.githubusercontent.com/u/6509565?v=4" alt="gamemann" style="height:50px;width:50px;"/></a>
@@ -264,8 +263,9 @@
 <a href="https://github.com/thepiratehub"><img src="https://avatars.githubusercontent.com/u/166730728?v=4" alt="thepiratehub" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/madeindex"><img src="https://avatars.githubusercontent.com/u/166755288?v=4" alt="madeindex" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/po1206"><img src="https://avatars.githubusercontent.com/u/168759402?v=4" alt="po1206" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/hotcoding85"><img src="https://avatars.githubusercontent.com/u/168793747?v=4" alt="hotcoding85" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/LegendaryNaix"><img src="https://avatars.githubusercontent.com/u/170892541?v=4" alt="LegendaryNaix" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/CavinMatrics"><img src="https://avatars.githubusercontent.com/u/171125505?v=4" alt="CavinMatrics" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/MightyTechNinja"><img src="https://avatars.githubusercontent.com/u/171361497?v=4" alt="MightyTechNinja" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/iurysantos-hub"><img src="https://avatars.githubusercontent.com/u/172458433?v=4" alt="iurysantos-hub" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 13/07/2024 02:27:51 (UTC)</h4><br>
+<br><h4>last update at : 14/07/2024 02:36:22 (UTC)</h4><br>
