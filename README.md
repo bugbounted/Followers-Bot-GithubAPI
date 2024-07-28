@@ -61,7 +61,6 @@
 <a href="https://github.com/datafu"><img src="https://avatars.githubusercontent.com/u/24384760?v=4" alt="datafu" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/moein-rezaee"><img src="https://avatars.githubusercontent.com/u/25407037?v=4" alt="moein-rezaee" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/skeleton1009"><img src="https://avatars.githubusercontent.com/u/25841237?v=4" alt="skeleton1009" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/md-sazzadul-islam"><img src="https://avatars.githubusercontent.com/u/26510351?v=4" alt="md-sazzadul-islam" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/mhmdhoseinzade"><img src="https://avatars.githubusercontent.com/u/27922739?v=4" alt="mhmdhoseinzade" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/maralzar"><img src="https://avatars.githubusercontent.com/u/29638282?v=4" alt="maralzar" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/anti-dominator"><img src="https://avatars.githubusercontent.com/u/30898106?v=4" alt="anti-dominator" style="height:50px;width:50px;"/></a>
@@ -286,4 +285,4 @@
 <a href="https://github.com/MightyTechNinja"><img src="https://avatars.githubusercontent.com/u/171361497?v=4" alt="MightyTechNinja" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/warner0616"><img src="https://avatars.githubusercontent.com/u/171462020?v=4" alt="warner0616" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/iurysantos-hub"><img src="https://avatars.githubusercontent.com/u/172458433?v=4" alt="iurysantos-hub" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 27/07/2024 02:28:12 (UTC)</h4><br>
+<br><h4>last update at : 28/07/2024 02:32:47 (UTC)</h4><br>
