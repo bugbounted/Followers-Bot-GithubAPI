@@ -257,6 +257,7 @@
 <a href="https://github.com/koji-keiseki"><img src="https://avatars.githubusercontent.com/u/144947831?v=4" alt="koji-keiseki" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/911-carrera"><img src="https://avatars.githubusercontent.com/u/146537917?v=4" alt="911-carrera" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/seniorvuejsdeveloper"><img src="https://avatars.githubusercontent.com/u/147451557?v=4" alt="seniorvuejsdeveloper" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/Iqbolshoh"><img src="https://avatars.githubusercontent.com/u/148738947?v=4" alt="Iqbolshoh" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Rez4-4"><img src="https://avatars.githubusercontent.com/u/148963421?v=4" alt="Rez4-4" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/arijiiiitttt"><img src="https://avatars.githubusercontent.com/u/149235252?v=4" alt="arijiiiitttt" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/lolegaz33"><img src="https://avatars.githubusercontent.com/u/149488208?v=4" alt="lolegaz33" style="height:50px;width:50px;"/></a>
@@ -281,4 +282,4 @@
 <a href="https://github.com/Legend96106"><img src="https://avatars.githubusercontent.com/u/171778505?v=4" alt="Legend96106" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/iurysantos-hub"><img src="https://avatars.githubusercontent.com/u/172458433?v=4" alt="iurysantos-hub" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Talent106"><img src="https://avatars.githubusercontent.com/u/172748479?v=4" alt="Talent106" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 05/08/2024 02:32:12 (UTC)</h4><br>
+<br><h4>last update at : 06/08/2024 02:30:46 (UTC)</h4><br>
