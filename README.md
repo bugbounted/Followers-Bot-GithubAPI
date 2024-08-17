@@ -270,7 +270,6 @@
 <a href="https://github.com/lolegaz33"><img src="https://avatars.githubusercontent.com/u/149488208?v=4" alt="lolegaz33" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Sh4hu4"><img src="https://avatars.githubusercontent.com/u/150078642?v=4" alt="Sh4hu4" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/xaramore"><img src="https://avatars.githubusercontent.com/u/150781581?v=4" alt="xaramore" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/C-O-D-E-G-A-M-E-R"><img src="https://avatars.githubusercontent.com/u/154326486?v=4" alt="C-O-D-E-G-A-M-E-R" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/rairoshni2005"><img src="https://avatars.githubusercontent.com/u/154725729?v=4" alt="rairoshni2005" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/stan8086"><img src="https://avatars.githubusercontent.com/u/154884797?v=4" alt="stan8086" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/nana9292"><img src="https://avatars.githubusercontent.com/u/155925965?v=4" alt="nana9292" style="height:50px;width:50px;"/></a>
@@ -293,4 +292,4 @@
 <a href="https://github.com/iurysantos-hub"><img src="https://avatars.githubusercontent.com/u/172458433?v=4" alt="iurysantos-hub" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Talent106"><img src="https://avatars.githubusercontent.com/u/172748479?v=4" alt="Talent106" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Legendary9000"><img src="https://avatars.githubusercontent.com/u/173949229?v=4" alt="Legendary9000" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 16/08/2024 02:31:19 (UTC)</h4><br>
+<br><h4>last update at : 17/08/2024 02:29:14 (UTC)</h4><br>
