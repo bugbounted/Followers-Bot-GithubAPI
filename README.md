@@ -61,7 +61,6 @@
 <a href="https://github.com/mohammadbizz"><img src="https://avatars.githubusercontent.com/u/23154547?v=4" alt="mohammadbizz" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/datafu"><img src="https://avatars.githubusercontent.com/u/24384760?v=4" alt="datafu" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/moein-rezaee"><img src="https://avatars.githubusercontent.com/u/25407037?v=4" alt="moein-rezaee" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/skeleton1009"><img src="https://avatars.githubusercontent.com/u/25841237?v=4" alt="skeleton1009" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/mhmdhoseinzade"><img src="https://avatars.githubusercontent.com/u/27922739?v=4" alt="mhmdhoseinzade" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/maralzar"><img src="https://avatars.githubusercontent.com/u/29638282?v=4" alt="maralzar" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/solkeen"><img src="https://avatars.githubusercontent.com/u/30898106?v=4" alt="solkeen" style="height:50px;width:50px;"/></a>
@@ -232,7 +231,7 @@
 <a href="https://github.com/tylerlight071"><img src="https://avatars.githubusercontent.com/u/131891127?v=4" alt="tylerlight071" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/tresa5923"><img src="https://avatars.githubusercontent.com/u/132029183?v=4" alt="tresa5923" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/merndev1101"><img src="https://avatars.githubusercontent.com/u/132189735?v=4" alt="merndev1101" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/VirusNinja1210"><img src="https://avatars.githubusercontent.com/u/132317376?v=4" alt="VirusNinja1210" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/innovativeDev1210"><img src="https://avatars.githubusercontent.com/u/132317376?v=4" alt="innovativeDev1210" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/BestFriend67"><img src="https://avatars.githubusercontent.com/u/132333928?v=4" alt="BestFriend67" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/alderson1408"><img src="https://avatars.githubusercontent.com/u/133116589?v=4" alt="alderson1408" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/milddrizzle"><img src="https://avatars.githubusercontent.com/u/133192705?v=4" alt="milddrizzle" style="height:50px;width:50px;"/></a>
@@ -267,7 +266,6 @@
 <a href="https://github.com/seniorvuejsdeveloper"><img src="https://avatars.githubusercontent.com/u/147451557?v=4" alt="seniorvuejsdeveloper" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Iqbolshoh"><img src="https://avatars.githubusercontent.com/u/148738947?v=4" alt="Iqbolshoh" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Rez4-4"><img src="https://avatars.githubusercontent.com/u/148963421?v=4" alt="Rez4-4" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/arijiiiitttt"><img src="https://avatars.githubusercontent.com/u/149235252?v=4" alt="arijiiiitttt" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/lolegaz33"><img src="https://avatars.githubusercontent.com/u/149488208?v=4" alt="lolegaz33" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/dougkalash"><img src="https://avatars.githubusercontent.com/u/149725576?v=4" alt="dougkalash" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Sh4hu4"><img src="https://avatars.githubusercontent.com/u/150078642?v=4" alt="Sh4hu4" style="height:50px;width:50px;"/></a>
@@ -279,7 +277,6 @@
 <a href="https://github.com/champion10873"><img src="https://avatars.githubusercontent.com/u/157318675?v=4" alt="champion10873" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/james-gates-0212"><img src="https://avatars.githubusercontent.com/u/157581830?v=4" alt="james-gates-0212" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Mind-Soull"><img src="https://avatars.githubusercontent.com/u/157628262?v=4" alt="Mind-Soull" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/s7evenv"><img src="https://avatars.githubusercontent.com/u/160445093?v=4" alt="s7evenv" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/GrayMamoru"><img src="https://avatars.githubusercontent.com/u/161590789?v=4" alt="GrayMamoru" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/luckystar20206"><img src="https://avatars.githubusercontent.com/u/164378929?v=4" alt="luckystar20206" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/alikhazaeii"><img src="https://avatars.githubusercontent.com/u/165763641?v=4" alt="alikhazaeii" style="height:50px;width:50px;"/></a>
@@ -296,4 +293,4 @@
 <a href="https://github.com/Talent106"><img src="https://avatars.githubusercontent.com/u/172748479?v=4" alt="Talent106" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Legendary9000"><img src="https://avatars.githubusercontent.com/u/173949229?v=4" alt="Legendary9000" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/DustinPolsen"><img src="https://avatars.githubusercontent.com/u/175576374?v=4" alt="DustinPolsen" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 19/08/2024 02:33:43 (UTC)</h4><br>
+<br><h4>last update at : 20/08/2024 02:31:05 (UTC)</h4><br>
