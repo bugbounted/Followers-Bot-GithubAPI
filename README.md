@@ -140,7 +140,6 @@
 <a href="https://github.com/aplus-developer"><img src="https://avatars.githubusercontent.com/u/89198066?v=4" alt="aplus-developer" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/appleusa"><img src="https://avatars.githubusercontent.com/u/90065717?v=4" alt="appleusa" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/dragisa528"><img src="https://avatars.githubusercontent.com/u/91337512?v=4" alt="dragisa528" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/VatosV2"><img src="https://avatars.githubusercontent.com/u/92579954?v=4" alt="VatosV2" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/alineai18"><img src="https://avatars.githubusercontent.com/u/93167956?v=4" alt="alineai18" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Davy-G"><img src="https://avatars.githubusercontent.com/u/93647029?v=4" alt="Davy-G" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/AkshayAnand2002"><img src="https://avatars.githubusercontent.com/u/93818352?v=4" alt="AkshayAnand2002" style="height:50px;width:50px;"/></a>
@@ -282,7 +281,6 @@
 <a href="https://github.com/Mind-Soull"><img src="https://avatars.githubusercontent.com/u/157628262?v=4" alt="Mind-Soull" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/GrayMamoru"><img src="https://avatars.githubusercontent.com/u/161590789?v=4" alt="GrayMamoru" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/mwarcc"><img src="https://avatars.githubusercontent.com/u/162020887?v=4" alt="mwarcc" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/luckystar20206"><img src="https://avatars.githubusercontent.com/u/164378929?v=4" alt="luckystar20206" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/alikhazaeii"><img src="https://avatars.githubusercontent.com/u/165763641?v=4" alt="alikhazaeii" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/thepiratehub"><img src="https://avatars.githubusercontent.com/u/166730728?v=4" alt="thepiratehub" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/madeindex"><img src="https://avatars.githubusercontent.com/u/166755288?v=4" alt="madeindex" style="height:50px;width:50px;"/></a>
@@ -296,4 +294,4 @@
 <a href="https://github.com/Talent106"><img src="https://avatars.githubusercontent.com/u/172748479?v=4" alt="Talent106" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Legendary9000"><img src="https://avatars.githubusercontent.com/u/173949229?v=4" alt="Legendary9000" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/DustinPolsen"><img src="https://avatars.githubusercontent.com/u/175576374?v=4" alt="DustinPolsen" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 23/08/2024 02:32:24 (UTC)</h4><br>
+<br><h4>last update at : 24/08/2024 02:31:33 (UTC)</h4><br>
