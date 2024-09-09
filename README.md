@@ -312,5 +312,6 @@
 <a href="https://github.com/Talent106"><img src="https://avatars.githubusercontent.com/u/172748479?v=4" alt="Talent106" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Legendary9000"><img src="https://avatars.githubusercontent.com/u/173949229?v=4" alt="Legendary9000" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/DustinPolsen"><img src="https://avatars.githubusercontent.com/u/175576374?v=4" alt="DustinPolsen" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/gerald525"><img src="https://avatars.githubusercontent.com/u/176979276?v=4" alt="gerald525" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/xopaz"><img src="https://avatars.githubusercontent.com/u/177743084?v=4" alt="xopaz" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 08/09/2024 02:41:26 (UTC)</h4><br>
+<br><h4>last update at : 09/09/2024 02:41:11 (UTC)</h4><br>
