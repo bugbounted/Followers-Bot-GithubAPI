@@ -166,7 +166,6 @@
 <a href="https://github.com/Syipmong"><img src="https://avatars.githubusercontent.com/u/98860942?v=4" alt="Syipmong" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/yasaman-f"><img src="https://avatars.githubusercontent.com/u/99117322?v=4" alt="yasaman-f" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/korizyx"><img src="https://avatars.githubusercontent.com/u/99187000?v=4" alt="korizyx" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/mdazfar2"><img src="https://avatars.githubusercontent.com/u/100375390?v=4" alt="mdazfar2" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/abrehan2"><img src="https://avatars.githubusercontent.com/u/100872683?v=4" alt="abrehan2" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/sabbir-noyon"><img src="https://avatars.githubusercontent.com/u/100969574?v=4" alt="sabbir-noyon" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Scriptkiddo2000"><img src="https://avatars.githubusercontent.com/u/101963149?v=4" alt="Scriptkiddo2000" style="height:50px;width:50px;"/></a>
@@ -318,4 +317,4 @@
 <a href="https://github.com/gerald525"><img src="https://avatars.githubusercontent.com/u/176979276?v=4" alt="gerald525" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/xopaz"><img src="https://avatars.githubusercontent.com/u/177743084?v=4" alt="xopaz" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Likhons546"><img src="https://avatars.githubusercontent.com/u/180827508?v=4" alt="Likhons546" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 12/09/2024 02:38:26 (UTC)</h4><br>
+<br><h4>last update at : 13/09/2024 02:39:43 (UTC)</h4><br>
