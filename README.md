@@ -302,7 +302,6 @@
 <a href="https://github.com/Rez4-4"><img src="https://avatars.githubusercontent.com/u/148963421?v=4" alt="Rez4-4" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/ILIA8400"><img src="https://avatars.githubusercontent.com/u/149113911?v=4" alt="ILIA8400" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/lolegaz33"><img src="https://avatars.githubusercontent.com/u/149488208?v=4" alt="lolegaz33" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/dougkalash"><img src="https://avatars.githubusercontent.com/u/149725576?v=4" alt="dougkalash" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Sh4hu4"><img src="https://avatars.githubusercontent.com/u/150078642?v=4" alt="Sh4hu4" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/xaramore"><img src="https://avatars.githubusercontent.com/u/150781581?v=4" alt="xaramore" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/nekanero"><img src="https://avatars.githubusercontent.com/u/153177865?v=4" alt="nekanero" style="height:50px;width:50px;"/></a>
@@ -336,4 +335,4 @@
 <a href="https://github.com/Sheikhmahii"><img src="https://avatars.githubusercontent.com/u/180827508?v=4" alt="Sheikhmahii" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/siakooli"><img src="https://avatars.githubusercontent.com/u/182024746?v=4" alt="siakooli" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/sakura8084"><img src="https://avatars.githubusercontent.com/u/182088170?v=4" alt="sakura8084" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 05/10/2024 02:42:01 (UTC)</h4><br>
+<br><h4>last update at : 06/10/2024 02:49:54 (UTC)</h4><br>
