@@ -137,6 +137,7 @@
 <a href="https://github.com/Willarry"><img src="https://avatars.githubusercontent.com/u/77531807?v=4" alt="Willarry" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Endale2"><img src="https://avatars.githubusercontent.com/u/77967123?v=4" alt="Endale2" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Charles-Chrismann"><img src="https://avatars.githubusercontent.com/u/78157563?v=4" alt="Charles-Chrismann" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/duongminh318"><img src="https://avatars.githubusercontent.com/u/78397137?v=4" alt="duongminh318" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/MohamadrezaKhalvati"><img src="https://avatars.githubusercontent.com/u/79717216?v=4" alt="MohamadrezaKhalvati" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Thuotracy"><img src="https://avatars.githubusercontent.com/u/80819977?v=4" alt="Thuotracy" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/jarvis-acv"><img src="https://avatars.githubusercontent.com/u/81223741?v=4" alt="jarvis-acv" style="height:50px;width:50px;"/></a>
@@ -343,4 +344,4 @@
 <a href="https://github.com/tokyodal"><img src="https://avatars.githubusercontent.com/u/183947573?v=4" alt="tokyodal" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/bellafalconi"><img src="https://avatars.githubusercontent.com/u/184489091?v=4" alt="bellafalconi" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Vira6ot"><img src="https://avatars.githubusercontent.com/u/184773196?v=4" alt="Vira6ot" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 13/10/2024 02:49:03 (UTC)</h4><br>
+<br><h4>last update at : 14/10/2024 02:48:09 (UTC)</h4><br>
