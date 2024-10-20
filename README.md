@@ -63,6 +63,7 @@
 <a href="https://github.com/unmitra"><img src="https://avatars.githubusercontent.com/u/8395463?v=4" alt="unmitra" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/issavejdani"><img src="https://avatars.githubusercontent.com/u/10261553?v=4" alt="issavejdani" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/svenerbeck"><img src="https://avatars.githubusercontent.com/u/12124066?v=4" alt="svenerbeck" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/CelaDaniel"><img src="https://avatars.githubusercontent.com/u/13622306?v=4" alt="CelaDaniel" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/flaviopavim"><img src="https://avatars.githubusercontent.com/u/15269375?v=4" alt="flaviopavim" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/JBris"><img src="https://avatars.githubusercontent.com/u/16170973?v=4" alt="JBris" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/AhmadPirzargar"><img src="https://avatars.githubusercontent.com/u/17249092?v=4" alt="AhmadPirzargar" style="height:50px;width:50px;"/></a>
@@ -309,6 +310,7 @@
 <a href="https://github.com/Maxwell-Muthui-Mwangi"><img src="https://avatars.githubusercontent.com/u/146504812?v=4" alt="Maxwell-Muthui-Mwangi" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/911-carrera"><img src="https://avatars.githubusercontent.com/u/146537917?v=4" alt="911-carrera" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/seniorvuejsdeveloper"><img src="https://avatars.githubusercontent.com/u/147451557?v=4" alt="seniorvuejsdeveloper" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/Lafcadia"><img src="https://avatars.githubusercontent.com/u/147896059?v=4" alt="Lafcadia" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Iqbolshoh"><img src="https://avatars.githubusercontent.com/u/148738947?v=4" alt="Iqbolshoh" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Rez4-4"><img src="https://avatars.githubusercontent.com/u/148963421?v=4" alt="Rez4-4" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/ILIA8400"><img src="https://avatars.githubusercontent.com/u/149113911?v=4" alt="ILIA8400" style="height:50px;width:50px;"/></a>
@@ -349,4 +351,4 @@
 <a href="https://github.com/Mateossss280"><img src="https://avatars.githubusercontent.com/u/183201242?v=4" alt="Mateossss280" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/JaaGaaBar"><img src="https://avatars.githubusercontent.com/u/184535326?v=4" alt="JaaGaaBar" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Vira6ot"><img src="https://avatars.githubusercontent.com/u/184773196?v=4" alt="Vira6ot" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 19/10/2024 02:42:24 (UTC)</h4><br>
+<br><h4>last update at : 20/10/2024 02:51:47 (UTC)</h4><br>
