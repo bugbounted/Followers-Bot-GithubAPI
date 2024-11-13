@@ -174,7 +174,6 @@
 <a href="https://github.com/OnurBaha"><img src="https://avatars.githubusercontent.com/u/88722996?v=4" alt="OnurBaha" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/aplus-developer"><img src="https://avatars.githubusercontent.com/u/89198066?v=4" alt="aplus-developer" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/gustarting"><img src="https://avatars.githubusercontent.com/u/89204234?v=4" alt="gustarting" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/Gor-Hoveyan"><img src="https://avatars.githubusercontent.com/u/89770925?v=4" alt="Gor-Hoveyan" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/appleusa"><img src="https://avatars.githubusercontent.com/u/90065717?v=4" alt="appleusa" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/dragisa528"><img src="https://avatars.githubusercontent.com/u/91337512?v=4" alt="dragisa528" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/alineai18"><img src="https://avatars.githubusercontent.com/u/93167956?v=4" alt="alineai18" style="height:50px;width:50px;"/></a>
@@ -197,6 +196,7 @@
 <a href="https://github.com/abrehan2"><img src="https://avatars.githubusercontent.com/u/100872683?v=4" alt="abrehan2" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/sabbir-noyon"><img src="https://avatars.githubusercontent.com/u/100969574?v=4" alt="sabbir-noyon" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Scriptkiddo2000"><img src="https://avatars.githubusercontent.com/u/101963149?v=4" alt="Scriptkiddo2000" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/odest"><img src="https://avatars.githubusercontent.com/u/102368077?v=4" alt="odest" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/mm8f"><img src="https://avatars.githubusercontent.com/u/104580716?v=4" alt="mm8f" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/honokini"><img src="https://avatars.githubusercontent.com/u/104803215?v=4" alt="honokini" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/MahanRajabi80"><img src="https://avatars.githubusercontent.com/u/105061018?v=4" alt="MahanRajabi80" style="height:50px;width:50px;"/></a>
@@ -326,6 +326,7 @@
 <a href="https://github.com/cvs0"><img src="https://avatars.githubusercontent.com/u/143862758?v=4" alt="cvs0" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/koji-keiseki"><img src="https://avatars.githubusercontent.com/u/144947831?v=4" alt="koji-keiseki" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/alirezajavadigit"><img src="https://avatars.githubusercontent.com/u/145116978?v=4" alt="alirezajavadigit" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/goldenpath1109"><img src="https://avatars.githubusercontent.com/u/145857178?v=4" alt="goldenpath1109" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Maxwell-Muthui-Mwangi"><img src="https://avatars.githubusercontent.com/u/146504812?v=4" alt="Maxwell-Muthui-Mwangi" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/911-carrera"><img src="https://avatars.githubusercontent.com/u/146537917?v=4" alt="911-carrera" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/seniorvuejsdeveloper"><img src="https://avatars.githubusercontent.com/u/147451557?v=4" alt="seniorvuejsdeveloper" style="height:50px;width:50px;"/></a>
@@ -398,4 +399,4 @@
 <a href="https://github.com/Vira6ot"><img src="https://avatars.githubusercontent.com/u/184773196?v=4" alt="Vira6ot" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/MdShawonForazi"><img src="https://avatars.githubusercontent.com/u/185961339?v=4" alt="MdShawonForazi" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Salvelop07"><img src="https://avatars.githubusercontent.com/u/187376026?v=4" alt="Salvelop07" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 12/11/2024 02:40:13 (UTC)</h4><br>
+<br><h4>last update at : 13/11/2024 02:42:36 (UTC)</h4><br>
