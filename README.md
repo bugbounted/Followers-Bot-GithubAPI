@@ -343,6 +343,7 @@
 <a href="https://github.com/Armi-nn"><img src="https://avatars.githubusercontent.com/u/151467800?v=4" alt="Armi-nn" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/s-r-e-e-r-a-j"><img src="https://avatars.githubusercontent.com/u/154326486?v=4" alt="s-r-e-e-r-a-j" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/stan8086"><img src="https://avatars.githubusercontent.com/u/154884797?v=4" alt="stan8086" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/emirkaanozdemr"><img src="https://avatars.githubusercontent.com/u/155099794?v=4" alt="emirkaanozdemr" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/nana9292"><img src="https://avatars.githubusercontent.com/u/155925965?v=4" alt="nana9292" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/james-gates-0212"><img src="https://avatars.githubusercontent.com/u/157581830?v=4" alt="james-gates-0212" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Mindsoull"><img src="https://avatars.githubusercontent.com/u/157628262?v=4" alt="Mindsoull" style="height:50px;width:50px;"/></a>
@@ -400,4 +401,4 @@
 <a href="https://github.com/Vira6ot"><img src="https://avatars.githubusercontent.com/u/184773196?v=4" alt="Vira6ot" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/MdShawonForazi"><img src="https://avatars.githubusercontent.com/u/185961339?v=4" alt="MdShawonForazi" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Salvelop07"><img src="https://avatars.githubusercontent.com/u/187376026?v=4" alt="Salvelop07" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 14/11/2024 02:43:13 (UTC)</h4><br>
+<br><h4>last update at : 15/11/2024 02:52:52 (UTC)</h4><br>
