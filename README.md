@@ -76,6 +76,7 @@
 <a href="https://github.com/IDouble"><img src="https://avatars.githubusercontent.com/u/18186995?v=4" alt="IDouble" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/alxkm"><img src="https://avatars.githubusercontent.com/u/19151554?v=4" alt="alxkm" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/helios-yamet"><img src="https://avatars.githubusercontent.com/u/19288394?v=4" alt="helios-yamet" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/AlphaCoX"><img src="https://avatars.githubusercontent.com/u/20562240?v=4" alt="AlphaCoX" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/amirsinaa"><img src="https://avatars.githubusercontent.com/u/20769213?v=4" alt="amirsinaa" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/CharlesDerek"><img src="https://avatars.githubusercontent.com/u/22461547?v=4" alt="CharlesDerek" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/mohammadbizz"><img src="https://avatars.githubusercontent.com/u/23154547?v=4" alt="mohammadbizz" style="height:50px;width:50px;"/></a>
@@ -330,7 +331,7 @@
 <a href="https://github.com/MohamedAyman22E"><img src="https://avatars.githubusercontent.com/u/143669883?v=4" alt="MohamedAyman22E" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/cvs0"><img src="https://avatars.githubusercontent.com/u/143862758?v=4" alt="cvs0" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/koji-keiseki"><img src="https://avatars.githubusercontent.com/u/144947831?v=4" alt="koji-keiseki" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/goldenpath1109"><img src="https://avatars.githubusercontent.com/u/145857178?v=4" alt="goldenpath1109" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/Kavorix"><img src="https://avatars.githubusercontent.com/u/145857178?v=4" alt="Kavorix" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Maxwell-Muthui-Mwangi"><img src="https://avatars.githubusercontent.com/u/146504812?v=4" alt="Maxwell-Muthui-Mwangi" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/911-carrera"><img src="https://avatars.githubusercontent.com/u/146537917?v=4" alt="911-carrera" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/seniorvuejsdeveloper"><img src="https://avatars.githubusercontent.com/u/147451557?v=4" alt="seniorvuejsdeveloper" style="height:50px;width:50px;"/></a>
@@ -410,4 +411,4 @@
 <a href="https://github.com/Salvelop07"><img src="https://avatars.githubusercontent.com/u/187376026?v=4" alt="Salvelop07" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Kevindevstar"><img src="https://avatars.githubusercontent.com/u/188471110?v=4" alt="Kevindevstar" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Fidel254780"><img src="https://avatars.githubusercontent.com/u/188693891?v=4" alt="Fidel254780" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 26/11/2024 02:53:40 (UTC)</h4><br>
+<br><h4>last update at : 27/11/2024 02:55:57 (UTC)</h4><br>
