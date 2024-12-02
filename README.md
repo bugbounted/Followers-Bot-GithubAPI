@@ -263,6 +263,7 @@
 <a href="https://github.com/Serenitychic"><img src="https://avatars.githubusercontent.com/u/123345654?v=4" alt="Serenitychic" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/udborets"><img src="https://avatars.githubusercontent.com/u/123362580?v=4" alt="udborets" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/mahamad008"><img src="https://avatars.githubusercontent.com/u/123385057?v=4" alt="mahamad008" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/K1rsN7"><img src="https://avatars.githubusercontent.com/u/123446875?v=4" alt="K1rsN7" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/AliSabet81"><img src="https://avatars.githubusercontent.com/u/123770058?v=4" alt="AliSabet81" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Sophiehub89"><img src="https://avatars.githubusercontent.com/u/123826764?v=4" alt="Sophiehub89" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/PlatypusSec"><img src="https://avatars.githubusercontent.com/u/123879376?v=4" alt="PlatypusSec" style="height:50px;width:50px;"/></a>
@@ -412,4 +413,4 @@
 <a href="https://github.com/Salvelop07"><img src="https://avatars.githubusercontent.com/u/187376026?v=4" alt="Salvelop07" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Kevindevstar"><img src="https://avatars.githubusercontent.com/u/188471110?v=4" alt="Kevindevstar" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Fidel254780"><img src="https://avatars.githubusercontent.com/u/188693891?v=4" alt="Fidel254780" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 01/12/2024 03:10:13 (UTC)</h4><br>
+<br><h4>last update at : 02/12/2024 02:59:36 (UTC)</h4><br>
