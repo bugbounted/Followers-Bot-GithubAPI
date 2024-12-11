@@ -77,7 +77,6 @@
 <a href="https://github.com/JBris"><img src="https://avatars.githubusercontent.com/u/16170973?v=4" alt="JBris" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/AhmadPirzargar"><img src="https://avatars.githubusercontent.com/u/17249092?v=4" alt="AhmadPirzargar" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/TheKhanj"><img src="https://avatars.githubusercontent.com/u/17639831?v=4" alt="TheKhanj" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/dieharye"><img src="https://avatars.githubusercontent.com/u/17953198?v=4" alt="dieharye" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/IDouble"><img src="https://avatars.githubusercontent.com/u/18186995?v=4" alt="IDouble" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/alxkm"><img src="https://avatars.githubusercontent.com/u/19151554?v=4" alt="alxkm" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/helios-yamet"><img src="https://avatars.githubusercontent.com/u/19288394?v=4" alt="helios-yamet" style="height:50px;width:50px;"/></a>
@@ -146,7 +145,6 @@
 <a href="https://github.com/HosseinJafari2001"><img src="https://avatars.githubusercontent.com/u/70998598?v=4" alt="HosseinJafari2001" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/ishanlagrawal"><img src="https://avatars.githubusercontent.com/u/71170034?v=4" alt="ishanlagrawal" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/peter-kimanzi"><img src="https://avatars.githubusercontent.com/u/71552773?v=4" alt="peter-kimanzi" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/N-Mehroj"><img src="https://avatars.githubusercontent.com/u/72346597?v=4" alt="N-Mehroj" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Gizachew29"><img src="https://avatars.githubusercontent.com/u/72370435?v=4" alt="Gizachew29" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/JohnMwendwa"><img src="https://avatars.githubusercontent.com/u/72663882?v=4" alt="JohnMwendwa" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/WinterBoy-Galois"><img src="https://avatars.githubusercontent.com/u/72891761?v=4" alt="WinterBoy-Galois" style="height:50px;width:50px;"/></a>
@@ -422,4 +420,4 @@
 <a href="https://github.com/James95-Sullivan"><img src="https://avatars.githubusercontent.com/u/187626758?v=4" alt="James95-Sullivan" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Fidel254780"><img src="https://avatars.githubusercontent.com/u/188693891?v=4" alt="Fidel254780" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Victimslut"><img src="https://avatars.githubusercontent.com/u/190369252?v=4" alt="Victimslut" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 10/12/2024 02:59:37 (UTC)</h4><br>
+<br><h4>last update at : 11/12/2024 02:57:31 (UTC)</h4><br>
