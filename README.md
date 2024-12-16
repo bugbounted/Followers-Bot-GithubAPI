@@ -80,7 +80,6 @@
 <a href="https://github.com/IDouble"><img src="https://avatars.githubusercontent.com/u/18186995?v=4" alt="IDouble" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/alxkm"><img src="https://avatars.githubusercontent.com/u/19151554?v=4" alt="alxkm" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/helios-yamet"><img src="https://avatars.githubusercontent.com/u/19288394?v=4" alt="helios-yamet" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/AlphaCoX"><img src="https://avatars.githubusercontent.com/u/20562240?v=4" alt="AlphaCoX" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/amirsinaa"><img src="https://avatars.githubusercontent.com/u/20769213?v=4" alt="amirsinaa" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/CharlesDerek"><img src="https://avatars.githubusercontent.com/u/22461547?v=4" alt="CharlesDerek" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/mohammadbizz"><img src="https://avatars.githubusercontent.com/u/23154547?v=4" alt="mohammadbizz" style="height:50px;width:50px;"/></a>
@@ -416,8 +415,8 @@
 <a href="https://github.com/okerun"><img src="https://avatars.githubusercontent.com/u/184753026?v=4" alt="okerun" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Vira6ot"><img src="https://avatars.githubusercontent.com/u/184773196?v=4" alt="Vira6ot" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/MdShawonForazi"><img src="https://avatars.githubusercontent.com/u/185961339?v=4" alt="MdShawonForazi" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/Salvelop07"><img src="https://avatars.githubusercontent.com/u/187376026?v=4" alt="Salvelop07" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/JacksonLee92"><img src="https://avatars.githubusercontent.com/u/187626758?v=4" alt="JacksonLee92" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Fidel254780"><img src="https://avatars.githubusercontent.com/u/188693891?v=4" alt="Fidel254780" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Victimslut"><img src="https://avatars.githubusercontent.com/u/190369252?v=4" alt="Victimslut" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 15/12/2024 03:02:57 (UTC)</h4><br>
+<a href="https://github.com/bambangkred"><img src="https://avatars.githubusercontent.com/u/191727316?v=4" alt="bambangkred" style="height:50px;width:50px;"/></a>
+<br><h4>last update at : 16/12/2024 03:01:13 (UTC)</h4><br>
