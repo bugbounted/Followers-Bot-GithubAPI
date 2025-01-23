@@ -98,6 +98,7 @@
 <a href="https://github.com/jelspace"><img src="https://avatars.githubusercontent.com/u/27209430?v=4" alt="jelspace" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/mhmdhoseinzade"><img src="https://avatars.githubusercontent.com/u/27922739?v=4" alt="mhmdhoseinzade" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/max-tonny8"><img src="https://avatars.githubusercontent.com/u/28915387?v=4" alt="max-tonny8" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/Chitus"><img src="https://avatars.githubusercontent.com/u/29604662?v=4" alt="Chitus" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/maralzar"><img src="https://avatars.githubusercontent.com/u/29638282?v=4" alt="maralzar" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/KostasSliazas"><img src="https://avatars.githubusercontent.com/u/31342007?v=4" alt="KostasSliazas" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/AhmadMessbah"><img src="https://avatars.githubusercontent.com/u/32597745?v=4" alt="AhmadMessbah" style="height:50px;width:50px;"/></a>
@@ -444,4 +445,4 @@
 <a href="https://github.com/YShimada0127"><img src="https://avatars.githubusercontent.com/u/192385436?v=4" alt="YShimada0127" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/TheNeutronGirl"><img src="https://avatars.githubusercontent.com/u/193352070?v=4" alt="TheNeutronGirl" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/pantheon-opensource"><img src="https://avatars.githubusercontent.com/u/194724956?v=4" alt="pantheon-opensource" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 22/01/2025 02:41:34 (UTC)</h4><br>
+<br><h4>last update at : 23/01/2025 02:39:54 (UTC)</h4><br>
