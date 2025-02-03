@@ -64,6 +64,7 @@
 <a href="https://github.com/JohnAnthony"><img src="https://avatars.githubusercontent.com/u/436859?v=4" alt="JohnAnthony" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/mamby"><img src="https://avatars.githubusercontent.com/u/442257?v=4" alt="mamby" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/profmuhammadjabbar"><img src="https://avatars.githubusercontent.com/u/449586?v=4" alt="profmuhammadjabbar" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/Parkil"><img src="https://avatars.githubusercontent.com/u/454304?v=4" alt="Parkil" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/157"><img src="https://avatars.githubusercontent.com/u/1020018?v=4" alt="157" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/trinhminhtriet"><img src="https://avatars.githubusercontent.com/u/1650997?v=4" alt="trinhminhtriet" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/CharlyRielle"><img src="https://avatars.githubusercontent.com/u/2490528?v=4" alt="CharlyRielle" style="height:50px;width:50px;"/></a>
@@ -454,4 +455,4 @@
 <a href="https://github.com/pantheon-opensource"><img src="https://avatars.githubusercontent.com/u/194724956?v=4" alt="pantheon-opensource" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/nelbta"><img src="https://avatars.githubusercontent.com/u/196363280?v=4" alt="nelbta" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/kayukeee"><img src="https://avatars.githubusercontent.com/u/196380488?v=4" alt="kayukeee" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 02/02/2025 02:41:00 (UTC)</h4><br>
+<br><h4>last update at : 03/02/2025 02:40:18 (UTC)</h4><br>
