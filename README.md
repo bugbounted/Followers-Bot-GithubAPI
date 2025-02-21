@@ -231,7 +231,7 @@
 <a href="https://github.com/Musman007"><img src="https://avatars.githubusercontent.com/u/105151734?v=4" alt="Musman007" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/AliiRad"><img src="https://avatars.githubusercontent.com/u/106279062?v=4" alt="AliiRad" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/sama-babaee-web"><img src="https://avatars.githubusercontent.com/u/107030945?v=4" alt="sama-babaee-web" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/hernandezraymondm"><img src="https://avatars.githubusercontent.com/u/107069990?v=4" alt="hernandezraymondm" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/rayder-dev"><img src="https://avatars.githubusercontent.com/u/107069990?v=4" alt="rayder-dev" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/seaidear"><img src="https://avatars.githubusercontent.com/u/107947007?v=4" alt="seaidear" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/MoeinDeveloper92"><img src="https://avatars.githubusercontent.com/u/107954985?v=4" alt="MoeinDeveloper92" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Ramseyxlil"><img src="https://avatars.githubusercontent.com/u/108173781?v=4" alt="Ramseyxlil" style="height:50px;width:50px;"/></a>
@@ -328,7 +328,6 @@
 <a href="https://github.com/milddrizzle"><img src="https://avatars.githubusercontent.com/u/133192705?v=4" alt="milddrizzle" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/davidgit0408"><img src="https://avatars.githubusercontent.com/u/133590152?v=4" alt="davidgit0408" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/nectariferous"><img src="https://avatars.githubusercontent.com/u/133787954?v=4" alt="nectariferous" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/TrungpdtE"><img src="https://avatars.githubusercontent.com/u/134119472?v=4" alt="TrungpdtE" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/hafsalodhi2023"><img src="https://avatars.githubusercontent.com/u/134400279?v=4" alt="hafsalodhi2023" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/codemaster05330"><img src="https://avatars.githubusercontent.com/u/134444531?v=4" alt="codemaster05330" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/abaoo3"><img src="https://avatars.githubusercontent.com/u/136079237?v=4" alt="abaoo3" style="height:50px;width:50px;"/></a>
@@ -337,7 +336,6 @@
 <a href="https://github.com/PixelNon"><img src="https://avatars.githubusercontent.com/u/137290846?v=4" alt="PixelNon" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/seyyed-amirreza-hosseini"><img src="https://avatars.githubusercontent.com/u/137591999?v=4" alt="seyyed-amirreza-hosseini" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/L-Nova0211"><img src="https://avatars.githubusercontent.com/u/139003519?v=4" alt="L-Nova0211" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/milad-hub"><img src="https://avatars.githubusercontent.com/u/139052081?v=4" alt="milad-hub" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/D4Fi"><img src="https://avatars.githubusercontent.com/u/139288494?v=4" alt="D4Fi" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/mann2moon"><img src="https://avatars.githubusercontent.com/u/139585156?v=4" alt="mann2moon" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Nakshatra05"><img src="https://avatars.githubusercontent.com/u/139595090?v=4" alt="Nakshatra05" style="height:50px;width:50px;"/></a>
@@ -461,4 +459,5 @@
 <a href="https://github.com/lamjunkai"><img src="https://avatars.githubusercontent.com/u/194735158?v=4" alt="lamjunkai" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/nelbta"><img src="https://avatars.githubusercontent.com/u/196363280?v=4" alt="nelbta" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/kayukeee"><img src="https://avatars.githubusercontent.com/u/196380488?v=4" alt="kayukeee" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 20/02/2025 02:42:56 (UTC)</h4><br>
+<a href="https://github.com/Taras-dev0604"><img src="https://avatars.githubusercontent.com/u/199538127?v=4" alt="Taras-dev0604" style="height:50px;width:50px;"/></a>
+<br><h4>last update at : 21/02/2025 02:43:14 (UTC)</h4><br>
