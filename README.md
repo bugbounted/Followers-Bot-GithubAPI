@@ -315,7 +315,6 @@
 <a href="https://github.com/Phoenix-Genius"><img src="https://avatars.githubusercontent.com/u/128301504?v=4" alt="Phoenix-Genius" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Adanoriste"><img src="https://avatars.githubusercontent.com/u/128909862?v=4" alt="Adanoriste" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/f1rdavsi"><img src="https://avatars.githubusercontent.com/u/128942293?v=4" alt="f1rdavsi" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/devddine"><img src="https://avatars.githubusercontent.com/u/128975433?v=4" alt="devddine" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/AlhassanFusheini"><img src="https://avatars.githubusercontent.com/u/128978611?v=4" alt="AlhassanFusheini" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Awwze"><img src="https://avatars.githubusercontent.com/u/130462150?v=4" alt="Awwze" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/haoadsj9"><img src="https://avatars.githubusercontent.com/u/130531161?v=4" alt="haoadsj9" style="height:50px;width:50px;"/></a>
@@ -477,4 +476,4 @@
 <a href="https://github.com/siergiejkwasowdev"><img src="https://avatars.githubusercontent.com/u/201181484?v=4" alt="siergiejkwasowdev" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/AI4Networking"><img src="https://avatars.githubusercontent.com/u/202362359?v=4" alt="AI4Networking" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/VicTorWHoX"><img src="https://avatars.githubusercontent.com/u/202363599?v=4" alt="VicTorWHoX" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 18/03/2025 02:53:53 (UTC)</h4><br>
+<br><h4>last update at : 19/03/2025 02:53:01 (UTC)</h4><br>
