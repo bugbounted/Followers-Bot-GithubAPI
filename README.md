@@ -22,7 +22,6 @@
 <a href="https://github.com/zakuru"><img src="https://avatars.githubusercontent.com/u/171174?v=4" alt="zakuru" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/snettscom"><img src="https://avatars.githubusercontent.com/u/175748?v=4" alt="snettscom" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/alejandrosuarez"><img src="https://avatars.githubusercontent.com/u/180114?v=4" alt="alejandrosuarez" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/manoelhc"><img src="https://avatars.githubusercontent.com/u/185583?v=4" alt="manoelhc" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/afsharm"><img src="https://avatars.githubusercontent.com/u/191415?v=4" alt="afsharm" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/ManojKamat"><img src="https://avatars.githubusercontent.com/u/209821?v=4" alt="ManojKamat" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/pablodemora"><img src="https://avatars.githubusercontent.com/u/227205?v=4" alt="pablodemora" style="height:50px;width:50px;"/></a>
@@ -493,4 +492,4 @@
 <a href="https://github.com/likhonsheikhofficial"><img src="https://avatars.githubusercontent.com/u/203375680?v=4" alt="likhonsheikhofficial" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/d3v1sh"><img src="https://avatars.githubusercontent.com/u/206030926?v=4" alt="d3v1sh" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/SignificantOther"><img src="https://avatars.githubusercontent.com/u/206581766?v=4" alt="SignificantOther" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 30/04/2025 03:01:33 (UTC)</h4><br>
+<br><h4>last update at : 01/05/2025 03:11:48 (UTC)</h4><br>
