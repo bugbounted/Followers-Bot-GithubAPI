@@ -320,7 +320,6 @@
 <a href="https://github.com/Phoenix-Genius"><img src="https://avatars.githubusercontent.com/u/128301504?v=4" alt="Phoenix-Genius" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Adanoriste"><img src="https://avatars.githubusercontent.com/u/128909862?v=4" alt="Adanoriste" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/f1rdavsi"><img src="https://avatars.githubusercontent.com/u/128942293?v=4" alt="f1rdavsi" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/devddine"><img src="https://avatars.githubusercontent.com/u/128975433?v=4" alt="devddine" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/AlhassanFusheini"><img src="https://avatars.githubusercontent.com/u/128978611?v=4" alt="AlhassanFusheini" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Awwze"><img src="https://avatars.githubusercontent.com/u/130462150?v=4" alt="Awwze" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/haoadsj9"><img src="https://avatars.githubusercontent.com/u/130531161?v=4" alt="haoadsj9" style="height:50px;width:50px;"/></a>
@@ -490,4 +489,4 @@
 <a href="https://github.com/d3v1sh"><img src="https://avatars.githubusercontent.com/u/206030926?v=4" alt="d3v1sh" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/SignificantOther"><img src="https://avatars.githubusercontent.com/u/206581766?v=4" alt="SignificantOther" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/alejyoo"><img src="https://avatars.githubusercontent.com/u/209288425?v=4" alt="alejyoo" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 09/05/2025 03:05:10 (UTC)</h4><br>
+<br><h4>last update at : 10/05/2025 02:58:56 (UTC)</h4><br>
