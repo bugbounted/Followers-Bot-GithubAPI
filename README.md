@@ -137,6 +137,7 @@
 <a href="https://github.com/mxmnk"><img src="https://avatars.githubusercontent.com/u/46030850?v=4" alt="mxmnk" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/hauntmuskie"><img src="https://avatars.githubusercontent.com/u/46187240?v=4" alt="hauntmuskie" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/SpiritMark"><img src="https://avatars.githubusercontent.com/u/46281604?v=4" alt="SpiritMark" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/DexterZero"><img src="https://avatars.githubusercontent.com/u/46444849?v=4" alt="DexterZero" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/alirezafazeli8"><img src="https://avatars.githubusercontent.com/u/46454614?v=4" alt="alirezafazeli8" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/jfullstackdev"><img src="https://avatars.githubusercontent.com/u/47092464?v=4" alt="jfullstackdev" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/AppServiceProvider"><img src="https://avatars.githubusercontent.com/u/47697490?v=4" alt="AppServiceProvider" style="height:50px;width:50px;"/></a>
@@ -480,6 +481,7 @@
 <a href="https://github.com/MdShawonForazi"><img src="https://avatars.githubusercontent.com/u/185961339?v=4" alt="MdShawonForazi" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/sarahdanesh"><img src="https://avatars.githubusercontent.com/u/186021399?v=4" alt="sarahdanesh" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/techteam92"><img src="https://avatars.githubusercontent.com/u/187626758?v=4" alt="techteam92" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/alisongbs"><img src="https://avatars.githubusercontent.com/u/188419195?v=4" alt="alisongbs" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Dev-next-gen"><img src="https://avatars.githubusercontent.com/u/188639646?v=4" alt="Dev-next-gen" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/data-world-254"><img src="https://avatars.githubusercontent.com/u/188693891?v=4" alt="data-world-254" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Victimslut"><img src="https://avatars.githubusercontent.com/u/190369252?v=4" alt="Victimslut" style="height:50px;width:50px;"/></a>
@@ -507,4 +509,4 @@
 <a href="https://github.com/frederickboyd"><img src="https://avatars.githubusercontent.com/u/213318182?v=4" alt="frederickboyd" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/reh147147"><img src="https://avatars.githubusercontent.com/u/213421030?v=4" alt="reh147147" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/discodot"><img src="https://avatars.githubusercontent.com/u/214851943?v=4" alt="discodot" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 08/06/2025 03:18:59 (UTC)</h4><br>
+<br><h4>last update at : 09/06/2025 03:17:16 (UTC)</h4><br>
