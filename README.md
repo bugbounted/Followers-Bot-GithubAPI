@@ -512,9 +512,8 @@
 <a href="https://github.com/d3v1sh"><img src="https://avatars.githubusercontent.com/u/206030926?v=4" alt="d3v1sh" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/SignificantOther"><img src="https://avatars.githubusercontent.com/u/206581766?v=4" alt="SignificantOther" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/nelbetancur"><img src="https://avatars.githubusercontent.com/u/207216445?v=4" alt="nelbetancur" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/frederickboyd"><img src="https://avatars.githubusercontent.com/u/213318182?v=4" alt="frederickboyd" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/reh147147"><img src="https://avatars.githubusercontent.com/u/213421030?v=4" alt="reh147147" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/muhammad-ali-bright"><img src="https://avatars.githubusercontent.com/u/213477315?v=4" alt="muhammad-ali-bright" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/SuperK55"><img src="https://avatars.githubusercontent.com/u/213617664?v=4" alt="SuperK55" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/discodot"><img src="https://avatars.githubusercontent.com/u/214851943?v=4" alt="discodot" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 20/06/2025 03:11:56 (UTC)</h4><br>
+<br><h4>last update at : 21/06/2025 03:08:02 (UTC)</h4><br>
