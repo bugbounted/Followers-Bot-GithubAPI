@@ -301,7 +301,7 @@
 <a href="https://github.com/in-jun"><img src="https://avatars.githubusercontent.com/u/115498126?v=4" alt="in-jun" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Mohamed988o"><img src="https://avatars.githubusercontent.com/u/115921235?v=4" alt="Mohamed988o" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Azoonex"><img src="https://avatars.githubusercontent.com/u/116979870?v=4" alt="Azoonex" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/talentedDev0703"><img src="https://avatars.githubusercontent.com/u/117049160?v=4" alt="talentedDev0703" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/dev2187"><img src="https://avatars.githubusercontent.com/u/117049160?v=4" alt="dev2187" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Ambesawi"><img src="https://avatars.githubusercontent.com/u/117799650?v=4" alt="Ambesawi" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/gennahchant"><img src="https://avatars.githubusercontent.com/u/118005705?v=4" alt="gennahchant" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/FlutterSmith"><img src="https://avatars.githubusercontent.com/u/118023886?v=4" alt="FlutterSmith" style="height:50px;width:50px;"/></a>
@@ -533,4 +533,4 @@
 <a href="https://github.com/sepinoodl"><img src="https://avatars.githubusercontent.com/u/215114753?v=4" alt="sepinoodl" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/imdypha"><img src="https://avatars.githubusercontent.com/u/217967514?v=4" alt="imdypha" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/HOLAravel"><img src="https://avatars.githubusercontent.com/u/219487416?v=4" alt="HOLAravel" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 11/07/2025 03:22:28 (UTC)</h4><br>
+<br><h4>last update at : 12/07/2025 03:20:36 (UTC)</h4><br>
