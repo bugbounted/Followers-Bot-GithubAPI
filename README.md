@@ -118,7 +118,6 @@
 <a href="https://github.com/AhmadMessbah"><img src="https://avatars.githubusercontent.com/u/32597745?v=4" alt="AhmadMessbah" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/alihabibidev"><img src="https://avatars.githubusercontent.com/u/32979192?v=4" alt="alihabibidev" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Benjamin-cup"><img src="https://avatars.githubusercontent.com/u/33036584?v=4" alt="Benjamin-cup" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/kinexbt"><img src="https://avatars.githubusercontent.com/u/33602245?v=4" alt="kinexbt" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/ramincsy"><img src="https://avatars.githubusercontent.com/u/34828058?v=4" alt="ramincsy" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/jk4freedom"><img src="https://avatars.githubusercontent.com/u/36407826?v=4" alt="jk4freedom" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/erfuuan"><img src="https://avatars.githubusercontent.com/u/36955603?v=4" alt="erfuuan" style="height:50px;width:50px;"/></a>
@@ -540,4 +539,4 @@
 <a href="https://github.com/imdypha"><img src="https://avatars.githubusercontent.com/u/217967514?v=4" alt="imdypha" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/HOLAravel"><img src="https://avatars.githubusercontent.com/u/219487416?v=4" alt="HOLAravel" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Gamingstudio0"><img src="https://avatars.githubusercontent.com/u/221379392?v=4" alt="Gamingstudio0" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 30/07/2025 03:29:01 (UTC)</h4><br>
+<br><h4>last update at : 31/07/2025 03:27:16 (UTC)</h4><br>
