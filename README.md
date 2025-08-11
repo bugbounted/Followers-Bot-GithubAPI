@@ -254,7 +254,6 @@
 <a href="https://github.com/adko1396"><img src="https://avatars.githubusercontent.com/u/96544694?v=4" alt="adko1396" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/TrongChuongDao"><img src="https://avatars.githubusercontent.com/u/96568661?v=4" alt="TrongChuongDao" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/imyasha"><img src="https://avatars.githubusercontent.com/u/96626701?v=4" alt="imyasha" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/fjadidi2001"><img src="https://avatars.githubusercontent.com/u/96652895?v=4" alt="fjadidi2001" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/julianacastilloaraujo"><img src="https://avatars.githubusercontent.com/u/96964513?v=4" alt="julianacastilloaraujo" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/cumsoft"><img src="https://avatars.githubusercontent.com/u/97250816?v=4" alt="cumsoft" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/amirebadi21"><img src="https://avatars.githubusercontent.com/u/97709069?v=4" alt="amirebadi21" style="height:50px;width:50px;"/></a>
@@ -316,6 +315,7 @@
 <a href="https://github.com/Raushan1234567"><img src="https://avatars.githubusercontent.com/u/115460955?v=4" alt="Raushan1234567" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/in-jun"><img src="https://avatars.githubusercontent.com/u/115498126?v=4" alt="in-jun" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Mohamed988o"><img src="https://avatars.githubusercontent.com/u/115921235?v=4" alt="Mohamed988o" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/laurindoisaac"><img src="https://avatars.githubusercontent.com/u/116688165?v=4" alt="laurindoisaac" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Azoonex"><img src="https://avatars.githubusercontent.com/u/116979870?v=4" alt="Azoonex" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/dev2187"><img src="https://avatars.githubusercontent.com/u/117049160?v=4" alt="dev2187" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Ambesawi"><img src="https://avatars.githubusercontent.com/u/117799650?v=4" alt="Ambesawi" style="height:50px;width:50px;"/></a>
@@ -559,4 +559,4 @@
 <a href="https://github.com/HOLAravel"><img src="https://avatars.githubusercontent.com/u/219487416?v=4" alt="HOLAravel" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/uhsr"><img src="https://avatars.githubusercontent.com/u/220242888?v=4" alt="uhsr" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Gamingstudio0"><img src="https://avatars.githubusercontent.com/u/221379392?v=4" alt="Gamingstudio0" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 10/08/2025 03:38:21 (UTC)</h4><br>
+<br><h4>last update at : 11/08/2025 03:28:19 (UTC)</h4><br>
