@@ -424,7 +424,6 @@
 <a href="https://github.com/marichu-kt"><img src="https://avatars.githubusercontent.com/u/145447256?v=4" alt="marichu-kt" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/ikramagix"><img src="https://avatars.githubusercontent.com/u/146087805?v=4" alt="ikramagix" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Maxwell-Muthui-Mwangi"><img src="https://avatars.githubusercontent.com/u/146504812?v=4" alt="Maxwell-Muthui-Mwangi" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/rikulauttia"><img src="https://avatars.githubusercontent.com/u/147265193?v=4" alt="rikulauttia" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/seniorvuejsdeveloper"><img src="https://avatars.githubusercontent.com/u/147451557?v=4" alt="seniorvuejsdeveloper" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Lafcadia"><img src="https://avatars.githubusercontent.com/u/147896059?v=4" alt="Lafcadia" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/mohsenemami0011"><img src="https://avatars.githubusercontent.com/u/148591212?v=4" alt="mohsenemami0011" style="height:50px;width:50px;"/></a>
@@ -449,7 +448,7 @@
 <a href="https://github.com/nullptrException100"><img src="https://avatars.githubusercontent.com/u/156743576?v=4" alt="nullptrException100" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/AbhiFutureTech"><img src="https://avatars.githubusercontent.com/u/157373320?v=4" alt="AbhiFutureTech" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/brian-salvatore"><img src="https://avatars.githubusercontent.com/u/157581830?v=4" alt="brian-salvatore" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/coldfrxnt"><img src="https://avatars.githubusercontent.com/u/157628262?v=4" alt="coldfrxnt" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/winterlace"><img src="https://avatars.githubusercontent.com/u/157628262?v=4" alt="winterlace" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/combatjimbo"><img src="https://avatars.githubusercontent.com/u/157690154?v=4" alt="combatjimbo" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/SaadAbdElGhaffar"><img src="https://avatars.githubusercontent.com/u/158309546?v=4" alt="SaadAbdElGhaffar" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/niushaghavamii"><img src="https://avatars.githubusercontent.com/u/160418495?v=4" alt="niushaghavamii" style="height:50px;width:50px;"/></a>
@@ -557,6 +556,7 @@
 <a href="https://github.com/likhonsheikhofficial"><img src="https://avatars.githubusercontent.com/u/203375680?v=4" alt="likhonsheikhofficial" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/ABAASA-BYOONA"><img src="https://avatars.githubusercontent.com/u/205238180?v=4" alt="ABAASA-BYOONA" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/d3v1sh"><img src="https://avatars.githubusercontent.com/u/206030926?v=4" alt="d3v1sh" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/yosuke-kuroki"><img src="https://avatars.githubusercontent.com/u/206260453?v=4" alt="yosuke-kuroki" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/SignificantOther"><img src="https://avatars.githubusercontent.com/u/206581766?v=4" alt="SignificantOther" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/nelbetancur"><img src="https://avatars.githubusercontent.com/u/207216445?v=4" alt="nelbetancur" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/BitMorphX"><img src="https://avatars.githubusercontent.com/u/209542916?v=4" alt="BitMorphX" style="height:50px;width:50px;"/></a>
@@ -572,4 +572,4 @@
 <a href="https://github.com/uhsr"><img src="https://avatars.githubusercontent.com/u/220242888?v=4" alt="uhsr" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Gamingstudio0"><img src="https://avatars.githubusercontent.com/u/221379392?v=4" alt="Gamingstudio0" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/mahmoodkamel754-art"><img src="https://avatars.githubusercontent.com/u/226583057?v=4" alt="mahmoodkamel754-art" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 16/08/2025 03:09:46 (UTC)</h4><br>
+<br><h4>last update at : 17/08/2025 03:20:46 (UTC)</h4><br>
