@@ -453,6 +453,7 @@
 <a href="https://github.com/brian-salvatore"><img src="https://avatars.githubusercontent.com/u/157581830?v=4" alt="brian-salvatore" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/winterlace"><img src="https://avatars.githubusercontent.com/u/157628262?v=4" alt="winterlace" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/combatjimbo"><img src="https://avatars.githubusercontent.com/u/157690154?v=4" alt="combatjimbo" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/KaloudasDev"><img src="https://avatars.githubusercontent.com/u/157753309?v=4" alt="KaloudasDev" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/SaadAbdElGhaffar"><img src="https://avatars.githubusercontent.com/u/158309546?v=4" alt="SaadAbdElGhaffar" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/niushaghavamii"><img src="https://avatars.githubusercontent.com/u/160418495?v=4" alt="niushaghavamii" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/ghost2468developer"><img src="https://avatars.githubusercontent.com/u/160495796?v=4" alt="ghost2468developer" style="height:50px;width:50px;"/></a>
@@ -580,4 +581,5 @@
 <a href="https://github.com/Gamingstudio0"><img src="https://avatars.githubusercontent.com/u/221379392?v=4" alt="Gamingstudio0" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/muaddibx"><img src="https://avatars.githubusercontent.com/u/222104914?v=4" alt="muaddibx" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/mahmoodkamel754-art"><img src="https://avatars.githubusercontent.com/u/226583057?v=4" alt="mahmoodkamel754-art" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 05/09/2025 02:54:03 (UTC)</h4><br>
+<a href="https://github.com/sphinxzerd"><img src="https://avatars.githubusercontent.com/u/228416926?v=4" alt="sphinxzerd" style="height:50px;width:50px;"/></a>
+<br><h4>last update at : 06/09/2025 02:48:09 (UTC)</h4><br>
