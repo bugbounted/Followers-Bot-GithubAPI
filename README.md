@@ -372,6 +372,7 @@
 <a href="https://github.com/Phoenix-Genius"><img src="https://avatars.githubusercontent.com/u/128301504?v=4" alt="Phoenix-Genius" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Adanoriste"><img src="https://avatars.githubusercontent.com/u/128909862?v=4" alt="Adanoriste" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/f1rdavsi"><img src="https://avatars.githubusercontent.com/u/128942293?v=4" alt="f1rdavsi" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/devddine"><img src="https://avatars.githubusercontent.com/u/128975433?v=4" alt="devddine" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/AlhassanFusheini"><img src="https://avatars.githubusercontent.com/u/128978611?v=4" alt="AlhassanFusheini" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Awwze"><img src="https://avatars.githubusercontent.com/u/130462150?v=4" alt="Awwze" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/haoadsj9"><img src="https://avatars.githubusercontent.com/u/130531161?v=4" alt="haoadsj9" style="height:50px;width:50px;"/></a>
@@ -459,7 +460,6 @@
 <a href="https://github.com/brian-salvatore"><img src="https://avatars.githubusercontent.com/u/157581830?v=4" alt="brian-salvatore" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/winterlace"><img src="https://avatars.githubusercontent.com/u/157628262?v=4" alt="winterlace" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/combatjimbo"><img src="https://avatars.githubusercontent.com/u/157690154?v=4" alt="combatjimbo" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/KaloudasDev"><img src="https://avatars.githubusercontent.com/u/157753309?v=4" alt="KaloudasDev" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/SaadAbdElGhaffar"><img src="https://avatars.githubusercontent.com/u/158309546?v=4" alt="SaadAbdElGhaffar" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/niushaghavamii"><img src="https://avatars.githubusercontent.com/u/160418495?v=4" alt="niushaghavamii" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/ghost2468developer"><img src="https://avatars.githubusercontent.com/u/160495796?v=4" alt="ghost2468developer" style="height:50px;width:50px;"/></a>
@@ -540,6 +540,7 @@
 <a href="https://github.com/itsKayWat"><img src="https://avatars.githubusercontent.com/u/185666968?v=4" alt="itsKayWat" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/MdShawonForazi"><img src="https://avatars.githubusercontent.com/u/185961339?v=4" alt="MdShawonForazi" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/sarahdanesh"><img src="https://avatars.githubusercontent.com/u/186021399?v=4" alt="sarahdanesh" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/gr33kurious"><img src="https://avatars.githubusercontent.com/u/187106256?v=4" alt="gr33kurious" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/techteam92"><img src="https://avatars.githubusercontent.com/u/187626758?v=4" alt="techteam92" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/alisongbs"><img src="https://avatars.githubusercontent.com/u/188419195?v=4" alt="alisongbs" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Cittykitten"><img src="https://avatars.githubusercontent.com/u/188477543?v=4" alt="Cittykitten" style="height:50px;width:50px;"/></a>
@@ -588,4 +589,4 @@
 <a href="https://github.com/muaddibx"><img src="https://avatars.githubusercontent.com/u/222104914?v=4" alt="muaddibx" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/mahmoodkamel754-art"><img src="https://avatars.githubusercontent.com/u/226583057?v=4" alt="mahmoodkamel754-art" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/sphinxzerd"><img src="https://avatars.githubusercontent.com/u/228416926?v=4" alt="sphinxzerd" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 10/09/2025 02:50:27 (UTC)</h4><br>
+<br><h4>last update at : 11/09/2025 02:55:10 (UTC)</h4><br>
