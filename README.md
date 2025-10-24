@@ -324,6 +324,7 @@
 <a href="https://github.com/sajjad-salam"><img src="https://avatars.githubusercontent.com/u/110976991?v=4" alt="sajjad-salam" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/solmanid"><img src="https://avatars.githubusercontent.com/u/111176408?v=4" alt="solmanid" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/JacksonUptain"><img src="https://avatars.githubusercontent.com/u/111402072?v=4" alt="JacksonUptain" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/shayanzare-dev"><img src="https://avatars.githubusercontent.com/u/111701210?v=4" alt="shayanzare-dev" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/mostafakavand"><img src="https://avatars.githubusercontent.com/u/111739753?v=4" alt="mostafakavand" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/DIMFLIX"><img src="https://avatars.githubusercontent.com/u/112165977?v=4" alt="DIMFLIX" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Kobra-soft"><img src="https://avatars.githubusercontent.com/u/112418998?v=4" alt="Kobra-soft" style="height:50px;width:50px;"/></a>
@@ -618,4 +619,4 @@
 <a href="https://github.com/nikecodedev"><img src="https://avatars.githubusercontent.com/u/231803691?v=4" alt="nikecodedev" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/MahtabFaramarzpour"><img src="https://avatars.githubusercontent.com/u/235397797?v=4" alt="MahtabFaramarzpour" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/skmbxhacker"><img src="https://avatars.githubusercontent.com/u/238292945?v=4" alt="skmbxhacker" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 23/10/2025 02:58:17 (UTC)</h4><br>
+<br><h4>last update at : 24/10/2025 02:55:23 (UTC)</h4><br>
