@@ -141,7 +141,6 @@
 <a href="https://github.com/jk4freedom"><img src="https://avatars.githubusercontent.com/u/36407826?v=4" alt="jk4freedom" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/erfuuan"><img src="https://avatars.githubusercontent.com/u/36955603?v=4" alt="erfuuan" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/edwardosamosir"><img src="https://avatars.githubusercontent.com/u/37865911?v=4" alt="edwardosamosir" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/vladmeer"><img src="https://avatars.githubusercontent.com/u/38547278?v=4" alt="vladmeer" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/hu8813"><img src="https://avatars.githubusercontent.com/u/38990435?v=4" alt="hu8813" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/mohammadprgrm20123"><img src="https://avatars.githubusercontent.com/u/39572061?v=4" alt="mohammadprgrm20123" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/PuzzleTakX"><img src="https://avatars.githubusercontent.com/u/40192550?v=4" alt="PuzzleTakX" style="height:50px;width:50px;"/></a>
@@ -619,4 +618,4 @@
 <a href="https://github.com/nikecodedev"><img src="https://avatars.githubusercontent.com/u/231803691?v=4" alt="nikecodedev" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/MahtabFaramarzpour"><img src="https://avatars.githubusercontent.com/u/235397797?v=4" alt="MahtabFaramarzpour" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/skmbxhacker"><img src="https://avatars.githubusercontent.com/u/238292945?v=4" alt="skmbxhacker" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 24/10/2025 02:55:23 (UTC)</h4><br>
+<br><h4>last update at : 25/10/2025 02:57:00 (UTC)</h4><br>
