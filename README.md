@@ -618,4 +618,7 @@
 <a href="https://github.com/nikecodedev"><img src="https://avatars.githubusercontent.com/u/231803691?v=4" alt="nikecodedev" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/MahtabFaramarzpour"><img src="https://avatars.githubusercontent.com/u/235397797?v=4" alt="MahtabFaramarzpour" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/skmbxhacker"><img src="https://avatars.githubusercontent.com/u/238292945?v=4" alt="skmbxhacker" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 26/10/2025 03:04:35 (UTC)</h4><br>
+<a href="https://github.com/weitereigh"><img src="https://avatars.githubusercontent.com/u/240343619?v=4" alt="weitereigh" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/demaagro"><img src="https://avatars.githubusercontent.com/u/240357106?v=4" alt="demaagro" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/dwingustav"><img src="https://avatars.githubusercontent.com/u/240384104?v=4" alt="dwingustav" style="height:50px;width:50px;"/></a>
+<br><h4>last update at : 27/10/2025 03:13:59 (UTC)</h4><br>
