@@ -171,6 +171,7 @@
 <a href="https://github.com/iVGeek"><img src="https://avatars.githubusercontent.com/u/48223278?v=4" alt="iVGeek" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/ip681"><img src="https://avatars.githubusercontent.com/u/48838737?v=4" alt="ip681" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/abbbbbv"><img src="https://avatars.githubusercontent.com/u/49611458?v=4" alt="abbbbbv" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/fergusfergusfergus"><img src="https://avatars.githubusercontent.com/u/49805191?v=4" alt="fergusfergusfergus" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/emmanuelvelmo"><img src="https://avatars.githubusercontent.com/u/51292782?v=4" alt="emmanuelvelmo" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/MuhammadMujtabaa"><img src="https://avatars.githubusercontent.com/u/51963629?v=4" alt="MuhammadMujtabaa" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/AlirezaTabasi7"><img src="https://avatars.githubusercontent.com/u/52912797?v=4" alt="AlirezaTabasi7" style="height:50px;width:50px;"/></a>
@@ -618,9 +619,10 @@
 <a href="https://github.com/sphinxzerd"><img src="https://avatars.githubusercontent.com/u/228416926?v=4" alt="sphinxzerd" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/nikecodedev"><img src="https://avatars.githubusercontent.com/u/231803691?v=4" alt="nikecodedev" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/MahtabFaramarzpour"><img src="https://avatars.githubusercontent.com/u/235397797?v=4" alt="MahtabFaramarzpour" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/jahidnation"><img src="https://avatars.githubusercontent.com/u/235753025?v=4" alt="jahidnation" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/ankitaaryal"><img src="https://avatars.githubusercontent.com/u/235869631?v=4" alt="ankitaaryal" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/skmbxhacker"><img src="https://avatars.githubusercontent.com/u/238292945?v=4" alt="skmbxhacker" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/weitereigh"><img src="https://avatars.githubusercontent.com/u/240343619?v=4" alt="weitereigh" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/demaagro"><img src="https://avatars.githubusercontent.com/u/240357106?v=4" alt="demaagro" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/dwingustav"><img src="https://avatars.githubusercontent.com/u/240384104?v=4" alt="dwingustav" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 30/10/2025 03:05:33 (UTC)</h4><br>
+<br><h4>last update at : 31/10/2025 03:05:08 (UTC)</h4><br>
