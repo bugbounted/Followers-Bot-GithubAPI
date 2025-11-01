@@ -171,7 +171,6 @@
 <a href="https://github.com/iVGeek"><img src="https://avatars.githubusercontent.com/u/48223278?v=4" alt="iVGeek" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/ip681"><img src="https://avatars.githubusercontent.com/u/48838737?v=4" alt="ip681" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/abbbbbv"><img src="https://avatars.githubusercontent.com/u/49611458?v=4" alt="abbbbbv" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/fergusfergusfergus"><img src="https://avatars.githubusercontent.com/u/49805191?v=4" alt="fergusfergusfergus" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/emmanuelvelmo"><img src="https://avatars.githubusercontent.com/u/51292782?v=4" alt="emmanuelvelmo" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/MuhammadMujtabaa"><img src="https://avatars.githubusercontent.com/u/51963629?v=4" alt="MuhammadMujtabaa" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/AlirezaTabasi7"><img src="https://avatars.githubusercontent.com/u/52912797?v=4" alt="AlirezaTabasi7" style="height:50px;width:50px;"/></a>
@@ -625,4 +624,4 @@
 <a href="https://github.com/weitereigh"><img src="https://avatars.githubusercontent.com/u/240343619?v=4" alt="weitereigh" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/demaagro"><img src="https://avatars.githubusercontent.com/u/240357106?v=4" alt="demaagro" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/dwingustav"><img src="https://avatars.githubusercontent.com/u/240384104?v=4" alt="dwingustav" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 31/10/2025 03:05:08 (UTC)</h4><br>
+<br><h4>last update at : 01/11/2025 03:05:43 (UTC)</h4><br>
