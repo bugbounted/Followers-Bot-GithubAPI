@@ -480,7 +480,6 @@
 <a href="https://github.com/DevNinja08"><img src="https://avatars.githubusercontent.com/u/156286676?v=4" alt="DevNinja08" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/nullptrException100"><img src="https://avatars.githubusercontent.com/u/156743576?v=4" alt="nullptrException100" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/abhi-patil20"><img src="https://avatars.githubusercontent.com/u/157373320?v=4" alt="abhi-patil20" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/ankitkumarbarik"><img src="https://avatars.githubusercontent.com/u/157503070?v=4" alt="ankitkumarbarik" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/brian-salvatore"><img src="https://avatars.githubusercontent.com/u/157581830?v=4" alt="brian-salvatore" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/blindcircus"><img src="https://avatars.githubusercontent.com/u/157628262?v=4" alt="blindcircus" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/niushaghavamii"><img src="https://avatars.githubusercontent.com/u/160418495?v=4" alt="niushaghavamii" style="height:50px;width:50px;"/></a>
@@ -628,4 +627,4 @@
 <a href="https://github.com/weitereigh"><img src="https://avatars.githubusercontent.com/u/240343619?v=4" alt="weitereigh" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/demaagro"><img src="https://avatars.githubusercontent.com/u/240357106?v=4" alt="demaagro" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/dwingustav"><img src="https://avatars.githubusercontent.com/u/240384104?v=4" alt="dwingustav" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 04/11/2025 03:04:30 (UTC)</h4><br>
+<br><h4>last update at : 05/11/2025 03:05:54 (UTC)</h4><br>
