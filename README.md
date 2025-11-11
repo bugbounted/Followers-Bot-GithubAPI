@@ -194,6 +194,7 @@
 <a href="https://github.com/omid001php"><img src="https://avatars.githubusercontent.com/u/59409837?v=4" alt="omid001php" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/marcmotta"><img src="https://avatars.githubusercontent.com/u/60157172?v=4" alt="marcmotta" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/chunvanlierop"><img src="https://avatars.githubusercontent.com/u/60813505?v=4" alt="chunvanlierop" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/Daynlight"><img src="https://avatars.githubusercontent.com/u/62157770?v=4" alt="Daynlight" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/aantoooon"><img src="https://avatars.githubusercontent.com/u/62193371?v=4" alt="aantoooon" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/smrrazavian"><img src="https://avatars.githubusercontent.com/u/62871170?v=4" alt="smrrazavian" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/aghandideh"><img src="https://avatars.githubusercontent.com/u/63241065?v=4" alt="aghandideh" style="height:50px;width:50px;"/></a>
@@ -606,7 +607,9 @@
 <a href="https://github.com/constellation-infinity"><img src="https://avatars.githubusercontent.com/u/214535425?v=4" alt="constellation-infinity" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/discodot"><img src="https://avatars.githubusercontent.com/u/214851943?v=4" alt="discodot" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/sepinoodl"><img src="https://avatars.githubusercontent.com/u/215114753?v=4" alt="sepinoodl" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/ANTI-SOC1AL"><img src="https://avatars.githubusercontent.com/u/217288541?v=4" alt="ANTI-SOC1AL" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/wetmet"><img src="https://avatars.githubusercontent.com/u/217495233?v=4" alt="wetmet" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/SUCC-UBUS"><img src="https://avatars.githubusercontent.com/u/217562354?v=4" alt="SUCC-UBUS" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/sezindartar"><img src="https://avatars.githubusercontent.com/u/217591458?v=4" alt="sezindartar" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/imdypha"><img src="https://avatars.githubusercontent.com/u/217967514?v=4" alt="imdypha" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/HOLAravel"><img src="https://avatars.githubusercontent.com/u/219487416?v=4" alt="HOLAravel" style="height:50px;width:50px;"/></a>
@@ -628,4 +631,5 @@
 <a href="https://github.com/weitereigh"><img src="https://avatars.githubusercontent.com/u/240343619?v=4" alt="weitereigh" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/demaagro"><img src="https://avatars.githubusercontent.com/u/240357106?v=4" alt="demaagro" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/dwingustav"><img src="https://avatars.githubusercontent.com/u/240384104?v=4" alt="dwingustav" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 10/11/2025 03:13:26 (UTC)</h4><br>
+<a href="https://github.com/belovi4ka-hub"><img src="https://avatars.githubusercontent.com/u/240482922?v=4" alt="belovi4ka-hub" style="height:50px;width:50px;"/></a>
+<br><h4>last update at : 11/11/2025 03:08:10 (UTC)</h4><br>
