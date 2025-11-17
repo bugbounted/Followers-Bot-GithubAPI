@@ -596,7 +596,7 @@
 <a href="https://github.com/ABAASA-BYOONA"><img src="https://avatars.githubusercontent.com/u/205238180?v=4" alt="ABAASA-BYOONA" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/d3v1sh"><img src="https://avatars.githubusercontent.com/u/206030926?v=4" alt="d3v1sh" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/yosuke-kuroki"><img src="https://avatars.githubusercontent.com/u/206260453?v=4" alt="yosuke-kuroki" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/Lonebisonn"><img src="https://avatars.githubusercontent.com/u/206581766?v=4" alt="Lonebisonn" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/fusillade"><img src="https://avatars.githubusercontent.com/u/206581766?v=4" alt="fusillade" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/nmbetancur"><img src="https://avatars.githubusercontent.com/u/207216445?v=4" alt="nmbetancur" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/BitMorphX"><img src="https://avatars.githubusercontent.com/u/209542916?v=4" alt="BitMorphX" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/dc4finance193"><img src="https://avatars.githubusercontent.com/u/210090121?v=4" alt="dc4finance193" style="height:50px;width:50px;"/></a>
@@ -633,4 +633,4 @@
 <a href="https://github.com/demaagro"><img src="https://avatars.githubusercontent.com/u/240357106?v=4" alt="demaagro" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/dwingustav"><img src="https://avatars.githubusercontent.com/u/240384104?v=4" alt="dwingustav" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/belovi4ka-hub"><img src="https://avatars.githubusercontent.com/u/240482922?v=4" alt="belovi4ka-hub" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 16/11/2025 03:12:25 (UTC)</h4><br>
+<br><h4>last update at : 17/11/2025 03:09:59 (UTC)</h4><br>
