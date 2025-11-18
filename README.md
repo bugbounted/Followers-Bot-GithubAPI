@@ -122,7 +122,6 @@
 <a href="https://github.com/ramonshabo"><img src="https://avatars.githubusercontent.com/u/22187452?v=4" alt="ramonshabo" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/guevaraStian"><img src="https://avatars.githubusercontent.com/u/22348210?v=4" alt="guevaraStian" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/CharlesDerek"><img src="https://avatars.githubusercontent.com/u/22461547?v=4" alt="CharlesDerek" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/foxy1081"><img src="https://avatars.githubusercontent.com/u/22605150?v=4" alt="foxy1081" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/mohammadbizz"><img src="https://avatars.githubusercontent.com/u/23154547?v=4" alt="mohammadbizz" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/daniyal77"><img src="https://avatars.githubusercontent.com/u/23190528?v=4" alt="daniyal77" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/connebrink"><img src="https://avatars.githubusercontent.com/u/23358277?v=4" alt="connebrink" style="height:50px;width:50px;"/></a>
@@ -416,7 +415,6 @@
 <a href="https://github.com/rushprotocol"><img src="https://avatars.githubusercontent.com/u/135226561?v=4" alt="rushprotocol" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/HectorDanielAyarachiFuentes"><img src="https://avatars.githubusercontent.com/u/135895299?v=4" alt="HectorDanielAyarachiFuentes" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/abaoo3"><img src="https://avatars.githubusercontent.com/u/136079237?v=4" alt="abaoo3" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/warmice71"><img src="https://avatars.githubusercontent.com/u/136490321?v=4" alt="warmice71" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/amriddin26"><img src="https://avatars.githubusercontent.com/u/136697714?v=4" alt="amriddin26" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/PixelNon"><img src="https://avatars.githubusercontent.com/u/137290846?v=4" alt="PixelNon" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/seyyed-amirreza-hosseini"><img src="https://avatars.githubusercontent.com/u/137591999?v=4" alt="seyyed-amirreza-hosseini" style="height:50px;width:50px;"/></a>
@@ -484,7 +482,7 @@
 <a href="https://github.com/DevNinja08"><img src="https://avatars.githubusercontent.com/u/156286676?v=4" alt="DevNinja08" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/nullptrException100"><img src="https://avatars.githubusercontent.com/u/156743576?v=4" alt="nullptrException100" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/abhi-patil20"><img src="https://avatars.githubusercontent.com/u/157373320?v=4" alt="abhi-patil20" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/brian-salvatore"><img src="https://avatars.githubusercontent.com/u/157581830?v=4" alt="brian-salvatore" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/supercodestart"><img src="https://avatars.githubusercontent.com/u/157581830?v=4" alt="supercodestart" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/winterlace"><img src="https://avatars.githubusercontent.com/u/157628262?v=4" alt="winterlace" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/niushaghavamii"><img src="https://avatars.githubusercontent.com/u/160418495?v=4" alt="niushaghavamii" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/ghost2468developer"><img src="https://avatars.githubusercontent.com/u/160495796?v=4" alt="ghost2468developer" style="height:50px;width:50px;"/></a>
@@ -633,4 +631,4 @@
 <a href="https://github.com/demaagro"><img src="https://avatars.githubusercontent.com/u/240357106?v=4" alt="demaagro" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/dwingustav"><img src="https://avatars.githubusercontent.com/u/240384104?v=4" alt="dwingustav" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/belovi4ka-hub"><img src="https://avatars.githubusercontent.com/u/240482922?v=4" alt="belovi4ka-hub" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 17/11/2025 03:09:59 (UTC)</h4><br>
+<br><h4>last update at : 18/11/2025 03:06:40 (UTC)</h4><br>
