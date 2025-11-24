@@ -80,6 +80,7 @@
 <a href="https://github.com/peterruler"><img src="https://avatars.githubusercontent.com/u/559492?v=4" alt="peterruler" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/luciobatistella"><img src="https://avatars.githubusercontent.com/u/563772?v=4" alt="luciobatistella" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/vomoir"><img src="https://avatars.githubusercontent.com/u/575553?v=4" alt="vomoir" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/mehmet-kozan"><img src="https://avatars.githubusercontent.com/u/598159?v=4" alt="mehmet-kozan" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/slavaGanzin"><img src="https://avatars.githubusercontent.com/u/1011721?v=4" alt="slavaGanzin" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/157"><img src="https://avatars.githubusercontent.com/u/1020018?v=4" alt="157" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/trinhminhtriet"><img src="https://avatars.githubusercontent.com/u/1650997?v=4" alt="trinhminhtriet" style="height:50px;width:50px;"/></a>
@@ -329,6 +330,7 @@
 <a href="https://github.com/shayanzare-dev"><img src="https://avatars.githubusercontent.com/u/111701210?v=4" alt="shayanzare-dev" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/mostafakavand"><img src="https://avatars.githubusercontent.com/u/111739753?v=4" alt="mostafakavand" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/DIMFLIX"><img src="https://avatars.githubusercontent.com/u/112165977?v=4" alt="DIMFLIX" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/Kobra-soft"><img src="https://avatars.githubusercontent.com/u/112418998?v=4" alt="Kobra-soft" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/wenMoonx"><img src="https://avatars.githubusercontent.com/u/112678484?v=4" alt="wenMoonx" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/SuperButterfly"><img src="https://avatars.githubusercontent.com/u/112956014?v=4" alt="SuperButterfly" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/diamondyhand"><img src="https://avatars.githubusercontent.com/u/113045708?v=4" alt="diamondyhand" style="height:50px;width:50px;"/></a>
@@ -627,4 +629,5 @@
 <a href="https://github.com/demaagro"><img src="https://avatars.githubusercontent.com/u/240357106?v=4" alt="demaagro" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/dwingustav"><img src="https://avatars.githubusercontent.com/u/240384104?v=4" alt="dwingustav" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/belovi4ka-hub"><img src="https://avatars.githubusercontent.com/u/240482922?v=4" alt="belovi4ka-hub" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 23/11/2025 03:21:13 (UTC)</h4><br>
+<a href="https://github.com/ethosforge"><img src="https://avatars.githubusercontent.com/u/245372697?v=4" alt="ethosforge" style="height:50px;width:50px;"/></a>
+<br><h4>last update at : 24/11/2025 03:17:52 (UTC)</h4><br>
