@@ -553,6 +553,7 @@
 <a href="https://github.com/AranFononi"><img src="https://avatars.githubusercontent.com/u/179785617?v=4" alt="AranFononi" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/wefi-dex"><img src="https://avatars.githubusercontent.com/u/179937925?v=4" alt="wefi-dex" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/dasjubin"><img src="https://avatars.githubusercontent.com/u/179975461?v=4" alt="dasjubin" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/tartor0"><img src="https://avatars.githubusercontent.com/u/180127247?v=4" alt="tartor0" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Lotiel-Dev"><img src="https://avatars.githubusercontent.com/u/180131103?v=4" alt="Lotiel-Dev" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/AryaRabiee"><img src="https://avatars.githubusercontent.com/u/180186624?v=4" alt="AryaRabiee" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/LuizAnunciato"><img src="https://avatars.githubusercontent.com/u/180226824?v=4" alt="LuizAnunciato" style="height:50px;width:50px;"/></a>
@@ -589,6 +590,7 @@
 <a href="https://github.com/Renan092992"><img src="https://avatars.githubusercontent.com/u/198600993?v=4" alt="Renan092992" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/smartMinion221"><img src="https://avatars.githubusercontent.com/u/199213869?v=4" alt="smartMinion221" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/fortune-js"><img src="https://avatars.githubusercontent.com/u/199254198?v=4" alt="fortune-js" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/Shayanthn"><img src="https://avatars.githubusercontent.com/u/199501394?v=4" alt="Shayanthn" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/tarasvasieiev13"><img src="https://avatars.githubusercontent.com/u/199537960?v=4" alt="tarasvasieiev13" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Taras-dev0604"><img src="https://avatars.githubusercontent.com/u/199538127?v=4" alt="Taras-dev0604" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Twizter01"><img src="https://avatars.githubusercontent.com/u/200956574?v=4" alt="Twizter01" style="height:50px;width:50px;"/></a>
@@ -636,4 +638,4 @@
 <a href="https://github.com/dwingustav"><img src="https://avatars.githubusercontent.com/u/240384104?v=4" alt="dwingustav" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/belovi4ka-hub"><img src="https://avatars.githubusercontent.com/u/240482922?v=4" alt="belovi4ka-hub" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/ethosforge"><img src="https://avatars.githubusercontent.com/u/245372697?v=4" alt="ethosforge" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 30/11/2025 03:20:39 (UTC)</h4><br>
+<br><h4>last update at : 01/12/2025 03:44:06 (UTC)</h4><br>
