@@ -469,6 +469,7 @@
 <a href="https://github.com/mhmdghaedi"><img src="https://avatars.githubusercontent.com/u/149295862?v=4" alt="mhmdghaedi" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/lolegaz33"><img src="https://avatars.githubusercontent.com/u/149488208?v=4" alt="lolegaz33" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/karr-x1"><img src="https://avatars.githubusercontent.com/u/149694525?v=4" alt="karr-x1" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/njosuedev"><img src="https://avatars.githubusercontent.com/u/149709646?v=4" alt="njosuedev" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/befoulers"><img src="https://avatars.githubusercontent.com/u/149725576?v=4" alt="befoulers" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/ranesilva"><img src="https://avatars.githubusercontent.com/u/149807542?v=4" alt="ranesilva" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Sh4hu4"><img src="https://avatars.githubusercontent.com/u/150078642?v=4" alt="Sh4hu4" style="height:50px;width:50px;"/></a>
@@ -641,4 +642,4 @@
 <a href="https://github.com/dwingustav"><img src="https://avatars.githubusercontent.com/u/240384104?v=4" alt="dwingustav" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/belovi4ka-hub"><img src="https://avatars.githubusercontent.com/u/240482922?v=4" alt="belovi4ka-hub" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/ethosforge"><img src="https://avatars.githubusercontent.com/u/245372697?v=4" alt="ethosforge" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 02/12/2025 03:12:21 (UTC)</h4><br>
+<br><h4>last update at : 03/12/2025 03:11:19 (UTC)</h4><br>
