@@ -493,7 +493,6 @@
 <a href="https://github.com/fschmid311"><img src="https://avatars.githubusercontent.com/u/141766880?v=4" alt="fschmid311" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Sam666O"><img src="https://avatars.githubusercontent.com/u/141770099?v=4" alt="Sam666O" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Bifenzine"><img src="https://avatars.githubusercontent.com/u/141869601?v=4" alt="Bifenzine" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/serhatbula"><img src="https://avatars.githubusercontent.com/u/141905874?v=4" alt="serhatbula" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Parham-Dehghan"><img src="https://avatars.githubusercontent.com/u/142143060?v=4" alt="Parham-Dehghan" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/pony0206"><img src="https://avatars.githubusercontent.com/u/142345616?v=4" alt="pony0206" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Mohammadkrd1"><img src="https://avatars.githubusercontent.com/u/142540681?v=4" alt="Mohammadkrd1" style="height:50px;width:50px;"/></a>
@@ -767,4 +766,4 @@
 <a href="https://github.com/SHIYUT0"><img src="https://avatars.githubusercontent.com/u/270160295?v=4" alt="SHIYUT0" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/MJ-ulia"><img src="https://avatars.githubusercontent.com/u/270304306?v=4" alt="MJ-ulia" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/LUCIEN-VALCREST"><img src="https://avatars.githubusercontent.com/u/270351252?v=4" alt="LUCIEN-VALCREST" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 08/04/2026 04:30:41 (UTC)</h4><br>
+<br><h4>last update at : 09/04/2026 04:27:13 (UTC)</h4><br>
