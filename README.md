@@ -760,10 +760,9 @@
 <a href="https://github.com/brunomadrigal80"><img src="https://avatars.githubusercontent.com/u/258112009?v=4" alt="brunomadrigal80" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/l0ve-hate"><img src="https://avatars.githubusercontent.com/u/261390086?v=4" alt="l0ve-hate" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/KA3RAM"><img src="https://avatars.githubusercontent.com/u/261809622?v=4" alt="KA3RAM" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/QueerbaitTrio"><img src="https://avatars.githubusercontent.com/u/263339238?v=4" alt="QueerbaitTrio" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/parrotfies"><img src="https://avatars.githubusercontent.com/u/263339238?v=4" alt="parrotfies" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/eomseann"><img src="https://avatars.githubusercontent.com/u/267967381?v=4" alt="eomseann" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/anarchy-hime"><img src="https://avatars.githubusercontent.com/u/269245044?v=4" alt="anarchy-hime" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/SHIYUT0"><img src="https://avatars.githubusercontent.com/u/270160295?v=4" alt="SHIYUT0" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/MJ-ulia"><img src="https://avatars.githubusercontent.com/u/270304306?v=4" alt="MJ-ulia" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/LUCIEN-VALCREST"><img src="https://avatars.githubusercontent.com/u/270351252?v=4" alt="LUCIEN-VALCREST" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 11/04/2026 04:13:46 (UTC)</h4><br>
+<br><h4>last update at : 12/04/2026 04:41:44 (UTC)</h4><br>
