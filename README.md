@@ -82,7 +82,6 @@
 <a href="https://github.com/smolinjm"><img src="https://avatars.githubusercontent.com/u/634711?v=4" alt="smolinjm" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/tomyuk"><img src="https://avatars.githubusercontent.com/u/641485?v=4" alt="tomyuk" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/suyuen"><img src="https://avatars.githubusercontent.com/u/647099?v=4" alt="suyuen" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/nidhhoggr"><img src="https://avatars.githubusercontent.com/u/650443?v=4" alt="nidhhoggr" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Art3mk4"><img src="https://avatars.githubusercontent.com/u/650688?v=4" alt="Art3mk4" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/slavaGanzin"><img src="https://avatars.githubusercontent.com/u/1011721?v=4" alt="slavaGanzin" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/157"><img src="https://avatars.githubusercontent.com/u/1020018?v=4" alt="157" style="height:50px;width:50px;"/></a>
@@ -800,4 +799,4 @@
 <a href="https://github.com/HEALTH-LEDGER"><img src="https://avatars.githubusercontent.com/u/270351252?v=4" alt="HEALTH-LEDGER" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/justinT-uH"><img src="https://avatars.githubusercontent.com/u/279371976?v=4" alt="justinT-uH" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/hidariako"><img src="https://avatars.githubusercontent.com/u/283745494?v=4" alt="hidariako" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 17/05/2026 05:42:13 (UTC)</h4><br>
+<br><h4>last update at : 18/05/2026 06:05:39 (UTC)</h4><br>
