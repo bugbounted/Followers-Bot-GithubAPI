@@ -143,7 +143,6 @@
 <a href="https://github.com/super-eatsky"><img src="https://avatars.githubusercontent.com/u/24600853?v=4" alt="super-eatsky" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/moein-rezaee"><img src="https://avatars.githubusercontent.com/u/25407037?v=4" alt="moein-rezaee" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/lynewinter"><img src="https://avatars.githubusercontent.com/u/25643472?v=4" alt="lynewinter" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/HexCore8"><img src="https://avatars.githubusercontent.com/u/26717838?v=4" alt="HexCore8" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/jelspace"><img src="https://avatars.githubusercontent.com/u/27209430?v=4" alt="jelspace" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/mhmdhoseinzade"><img src="https://avatars.githubusercontent.com/u/27922739?v=4" alt="mhmdhoseinzade" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Kovbo"><img src="https://avatars.githubusercontent.com/u/28661894?v=4" alt="Kovbo" style="height:50px;width:50px;"/></a>
@@ -797,4 +796,4 @@
 <a href="https://github.com/HEALTH-LEDGER"><img src="https://avatars.githubusercontent.com/u/270351252?v=4" alt="HEALTH-LEDGER" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/justinT-uH"><img src="https://avatars.githubusercontent.com/u/279371976?v=4" alt="justinT-uH" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/hidariako"><img src="https://avatars.githubusercontent.com/u/283745494?v=4" alt="hidariako" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 29/05/2026 06:05:54 (UTC)</h4><br>
+<br><h4>last update at : 30/05/2026 05:41:50 (UTC)</h4><br>
