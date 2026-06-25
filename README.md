@@ -320,7 +320,6 @@
 <a href="https://github.com/appleusa"><img src="https://avatars.githubusercontent.com/u/90065717?v=4" alt="appleusa" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/mariwatts"><img src="https://avatars.githubusercontent.com/u/90145168?v=4" alt="mariwatts" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/rasyidiano"><img src="https://avatars.githubusercontent.com/u/90813302?v=4" alt="rasyidiano" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/chahe-dridi"><img src="https://avatars.githubusercontent.com/u/91032735?v=4" alt="chahe-dridi" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/ezozu"><img src="https://avatars.githubusercontent.com/u/91341753?v=4" alt="ezozu" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/OHANA-WEB"><img src="https://avatars.githubusercontent.com/u/91359065?v=4" alt="OHANA-WEB" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/ebrahimkhodadadi"><img src="https://avatars.githubusercontent.com/u/91634146?v=4" alt="ebrahimkhodadadi" style="height:50px;width:50px;"/></a>
@@ -812,4 +811,4 @@
 <a href="https://github.com/white-night-eco-dev"><img src="https://avatars.githubusercontent.com/u/288044956?v=4" alt="white-night-eco-dev" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/ohmanexplorer-del"><img src="https://avatars.githubusercontent.com/u/293343664?v=4" alt="ohmanexplorer-del" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/hidari69"><img src="https://avatars.githubusercontent.com/u/295568264?v=4" alt="hidari69" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 24/06/2026 06:00:00 (UTC)</h4><br>
+<br><h4>last update at : 25/06/2026 05:58:53 (UTC)</h4><br>
