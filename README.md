@@ -807,7 +807,5 @@
 <a href="https://github.com/MJ-ulia"><img src="https://avatars.githubusercontent.com/u/270304306?v=4" alt="MJ-ulia" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/HEALTH-LEDGER"><img src="https://avatars.githubusercontent.com/u/270351252?v=4" alt="HEALTH-LEDGER" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/AngelofDarkn"><img src="https://avatars.githubusercontent.com/u/279371976?v=4" alt="AngelofDarkn" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/white-night-eco-dev"><img src="https://avatars.githubusercontent.com/u/288044956?v=4" alt="white-night-eco-dev" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/ohmanexplorer-del"><img src="https://avatars.githubusercontent.com/u/293343664?v=4" alt="ohmanexplorer-del" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/hidari69"><img src="https://avatars.githubusercontent.com/u/295568264?v=4" alt="hidari69" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 28/06/2026 06:09:31 (UTC)</h4><br>
+<br><h4>last update at : 29/06/2026 06:37:44 (UTC)</h4><br>
