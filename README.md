@@ -113,7 +113,6 @@
 <a href="https://github.com/budaivisita"><img src="https://avatars.githubusercontent.com/u/12219774?v=4" alt="budaivisita" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/ledgerhubteam"><img src="https://avatars.githubusercontent.com/u/13338527?v=4" alt="ledgerhubteam" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/CelaDaniel"><img src="https://avatars.githubusercontent.com/u/13622306?v=4" alt="CelaDaniel" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/lokiwyler"><img src="https://avatars.githubusercontent.com/u/14098375?v=4" alt="lokiwyler" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/paaak"><img src="https://avatars.githubusercontent.com/u/15879228?v=4" alt="paaak" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/JBris"><img src="https://avatars.githubusercontent.com/u/16170973?v=4" alt="JBris" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/jokeyhter"><img src="https://avatars.githubusercontent.com/u/16211337?v=4" alt="jokeyhter" style="height:50px;width:50px;"/></a>
@@ -824,4 +823,4 @@
 <a href="https://github.com/raviwijerathna1"><img src="https://avatars.githubusercontent.com/u/290047901?v=4" alt="raviwijerathna1" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/ohmanexplorer-del"><img src="https://avatars.githubusercontent.com/u/293343664?v=4" alt="ohmanexplorer-del" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/whoisowl"><img src="https://avatars.githubusercontent.com/u/299785908?v=4" alt="whoisowl" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 02/08/2026 05:19:43 (UTC)</h4><br>
+<br><h4>last update at : 03/08/2026 05:34:01 (UTC)</h4><br>
