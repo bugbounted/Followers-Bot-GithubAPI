@@ -238,7 +238,6 @@
 <a href="https://github.com/Daynlight"><img src="https://avatars.githubusercontent.com/u/62157770?v=4" alt="Daynlight" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/aantoooon"><img src="https://avatars.githubusercontent.com/u/62193371?v=4" alt="aantoooon" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/smrrazavian"><img src="https://avatars.githubusercontent.com/u/62871170?v=4" alt="smrrazavian" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/aghandideh"><img src="https://avatars.githubusercontent.com/u/63241065?v=4" alt="aghandideh" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/NeoZorK"><img src="https://avatars.githubusercontent.com/u/63606118?v=4" alt="NeoZorK" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/samettek"><img src="https://avatars.githubusercontent.com/u/64100550?v=4" alt="samettek" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/xzg268"><img src="https://avatars.githubusercontent.com/u/64958938?v=4" alt="xzg268" style="height:50px;width:50px;"/></a>
@@ -861,4 +860,4 @@
 <a href="https://github.com/takahashikushina0223"><img src="https://avatars.githubusercontent.com/u/301909658?v=4" alt="takahashikushina0223" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/cchongming"><img src="https://avatars.githubusercontent.com/u/308354594?v=4" alt="cchongming" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/arpitrajjj"><img src="https://avatars.githubusercontent.com/u/309271662?v=4" alt="arpitrajjj" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 30/08/2026 07:42:25 (UTC)</h4><br>
+<br><h4>last update at : 31/08/2026 07:56:42 (UTC)</h4><br>
