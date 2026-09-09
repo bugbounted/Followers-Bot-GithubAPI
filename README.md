@@ -146,7 +146,6 @@
 <a href="https://github.com/moein-rezaee"><img src="https://avatars.githubusercontent.com/u/25407037?v=4" alt="moein-rezaee" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/cambot86"><img src="https://avatars.githubusercontent.com/u/25578577?v=4" alt="cambot86" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/mollyroger"><img src="https://avatars.githubusercontent.com/u/25643472?v=4" alt="mollyroger" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/AceOnyx8"><img src="https://avatars.githubusercontent.com/u/26717838?v=4" alt="AceOnyx8" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/jelspace"><img src="https://avatars.githubusercontent.com/u/27209430?v=4" alt="jelspace" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Sanghyun-0h"><img src="https://avatars.githubusercontent.com/u/27670499?v=4" alt="Sanghyun-0h" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/mhmdhoseinzade"><img src="https://avatars.githubusercontent.com/u/27922739?v=4" alt="mhmdhoseinzade" style="height:50px;width:50px;"/></a>
@@ -310,7 +309,7 @@
 <a href="https://github.com/xnovaxdev"><img src="https://avatars.githubusercontent.com/u/85103433?v=4" alt="xnovaxdev" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/filzehoka"><img src="https://avatars.githubusercontent.com/u/85108412?v=4" alt="filzehoka" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Wenyveo"><img src="https://avatars.githubusercontent.com/u/85108859?v=4" alt="Wenyveo" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/jennifertieuu"><img src="https://avatars.githubusercontent.com/u/85109209?v=4" alt="jennifertieuu" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/nico-laqua"><img src="https://avatars.githubusercontent.com/u/85109209?v=4" alt="nico-laqua" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/NimaCodez"><img src="https://avatars.githubusercontent.com/u/85389307?v=4" alt="NimaCodez" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/serkantolga"><img src="https://avatars.githubusercontent.com/u/85461003?v=4" alt="serkantolga" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/yasinsaee"><img src="https://avatars.githubusercontent.com/u/85832445?v=4" alt="yasinsaee" style="height:50px;width:50px;"/></a>
@@ -869,4 +868,4 @@
 <a href="https://github.com/takahashikushina0223"><img src="https://avatars.githubusercontent.com/u/301909658?v=4" alt="takahashikushina0223" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/cchongming"><img src="https://avatars.githubusercontent.com/u/308354594?v=4" alt="cchongming" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/arpitrajjj"><img src="https://avatars.githubusercontent.com/u/309271662?v=4" alt="arpitrajjj" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 08/09/2026 06:46:55 (UTC)</h4><br>
+<br><h4>last update at : 09/09/2026 06:55:46 (UTC)</h4><br>
