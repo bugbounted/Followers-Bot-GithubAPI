@@ -377,6 +377,7 @@
 <a href="https://github.com/AliiRad"><img src="https://avatars.githubusercontent.com/u/106279062?v=4" alt="AliiRad" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/sama-babaee-web"><img src="https://avatars.githubusercontent.com/u/107030945?v=4" alt="sama-babaee-web" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/rayku-dev"><img src="https://avatars.githubusercontent.com/u/107069990?v=4" alt="rayku-dev" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/ettisafxrup"><img src="https://avatars.githubusercontent.com/u/107711625?v=4" alt="ettisafxrup" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/brave00123"><img src="https://avatars.githubusercontent.com/u/107947007?v=4" alt="brave00123" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/MoeinDeveloper92"><img src="https://avatars.githubusercontent.com/u/107954985?v=4" alt="MoeinDeveloper92" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/taisprestes01"><img src="https://avatars.githubusercontent.com/u/108246691?v=4" alt="taisprestes01" style="height:50px;width:50px;"/></a>
@@ -860,7 +861,8 @@
 <a href="https://github.com/TOPDEV99999"><img src="https://avatars.githubusercontent.com/u/296813120?v=4" alt="TOPDEV99999" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/whoisowl"><img src="https://avatars.githubusercontent.com/u/299785908?v=4" alt="whoisowl" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/takahashikushina0223"><img src="https://avatars.githubusercontent.com/u/301909658?v=4" alt="takahashikushina0223" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/takumi-sato0209"><img src="https://avatars.githubusercontent.com/u/304517165?v=4" alt="takumi-sato0209" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/shinobi-coder701"><img src="https://avatars.githubusercontent.com/u/307791440?v=4" alt="shinobi-coder701" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/cchongming"><img src="https://avatars.githubusercontent.com/u/308354594?v=4" alt="cchongming" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/arpitrajjj"><img src="https://avatars.githubusercontent.com/u/309271662?v=4" alt="arpitrajjj" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 17/09/2026 06:57:40 (UTC)</h4><br>
+<br><h4>last update at : 18/09/2026 06:54:26 (UTC)</h4><br>
