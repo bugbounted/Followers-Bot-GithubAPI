@@ -264,6 +264,7 @@
 <a href="https://github.com/1numak1"><img src="https://avatars.githubusercontent.com/u/73547093?v=4" alt="1numak1" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Mohammad-Ali-Malekzadeh"><img src="https://avatars.githubusercontent.com/u/75009952?v=4" alt="Mohammad-Ali-Malekzadeh" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Geek-Cheth"><img src="https://avatars.githubusercontent.com/u/75480864?v=4" alt="Geek-Cheth" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/Alessandro624"><img src="https://avatars.githubusercontent.com/u/75628365?v=4" alt="Alessandro624" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/judeotine"><img src="https://avatars.githubusercontent.com/u/75664161?v=4" alt="judeotine" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/AhmadJeddi"><img src="https://avatars.githubusercontent.com/u/76421360?v=4" alt="AhmadJeddi" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/aminnzo"><img src="https://avatars.githubusercontent.com/u/76665366?v=4" alt="aminnzo" style="height:50px;width:50px;"/></a>
@@ -595,6 +596,7 @@
 <a href="https://github.com/faiqkhan125"><img src="https://avatars.githubusercontent.com/u/155578969?v=4" alt="faiqkhan125" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/nana9292"><img src="https://avatars.githubusercontent.com/u/155925965?v=4" alt="nana9292" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/DevNinja08"><img src="https://avatars.githubusercontent.com/u/156286676?v=4" alt="DevNinja08" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/Dani-8"><img src="https://avatars.githubusercontent.com/u/156370366?v=4" alt="Dani-8" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/nullptrException100"><img src="https://avatars.githubusercontent.com/u/156743576?v=4" alt="nullptrException100" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Ali-hey-0"><img src="https://avatars.githubusercontent.com/u/157505360?v=4" alt="Ali-hey-0" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/supercodestart"><img src="https://avatars.githubusercontent.com/u/157581830?v=4" alt="supercodestart" style="height:50px;width:50px;"/></a>
@@ -826,7 +828,7 @@
 <a href="https://github.com/Tsyf02"><img src="https://avatars.githubusercontent.com/u/245777191?v=4" alt="Tsyf02" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/ukohatoro24-ctrl"><img src="https://avatars.githubusercontent.com/u/247539298?v=4" alt="ukohatoro24-ctrl" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/alizlfghri-13771206"><img src="https://avatars.githubusercontent.com/u/248209703?v=4" alt="alizlfghri-13771206" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/observer0x0"><img src="https://avatars.githubusercontent.com/u/248224479?v=4" alt="observer0x0" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/thevictimfourr"><img src="https://avatars.githubusercontent.com/u/248224479?v=4" alt="thevictimfourr" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/csamanahmouthspray2-jpg"><img src="https://avatars.githubusercontent.com/u/249245400?v=4" alt="csamanahmouthspray2-jpg" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/ChatHivernal"><img src="https://avatars.githubusercontent.com/u/250738654?v=4" alt="ChatHivernal" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/pheonix14"><img src="https://avatars.githubusercontent.com/u/252557369?v=4" alt="pheonix14" style="height:50px;width:50px;"/></a>
@@ -868,4 +870,4 @@
 <a href="https://github.com/shinobi-coder701"><img src="https://avatars.githubusercontent.com/u/307791440?v=4" alt="shinobi-coder701" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/cchongming"><img src="https://avatars.githubusercontent.com/u/308354594?v=4" alt="cchongming" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/arpitrajjj"><img src="https://avatars.githubusercontent.com/u/309271662?v=4" alt="arpitrajjj" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 08/10/2026 08:13:02 (UTC)</h4><br>
+<br><h4>last update at : 09/10/2026 08:14:08 (UTC)</h4><br>
