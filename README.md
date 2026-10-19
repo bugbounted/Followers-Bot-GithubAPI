@@ -314,7 +314,6 @@
 <a href="https://github.com/yasinsaee"><img src="https://avatars.githubusercontent.com/u/85832445?v=4" alt="yasinsaee" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/IIAmir"><img src="https://avatars.githubusercontent.com/u/86028513?v=4" alt="IIAmir" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Hstkj23"><img src="https://avatars.githubusercontent.com/u/86565570?v=4" alt="Hstkj23" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/emilybarru"><img src="https://avatars.githubusercontent.com/u/86711844?v=4" alt="emilybarru" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/emiroow"><img src="https://avatars.githubusercontent.com/u/86824829?v=4" alt="emiroow" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Tanmayee1507"><img src="https://avatars.githubusercontent.com/u/86916999?v=4" alt="Tanmayee1507" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/NazmusSayad"><img src="https://avatars.githubusercontent.com/u/87106526?v=4" alt="NazmusSayad" style="height:50px;width:50px;"/></a>
@@ -887,7 +886,6 @@
 <a href="https://github.com/takumi-sato0209"><img src="https://avatars.githubusercontent.com/u/304517165?v=4" alt="takumi-sato0209" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/shinobi-coder701"><img src="https://avatars.githubusercontent.com/u/307791440?v=4" alt="shinobi-coder701" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/cchongming"><img src="https://avatars.githubusercontent.com/u/308354594?v=4" alt="cchongming" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/MrAbdulSamadDEV"><img src="https://avatars.githubusercontent.com/u/309018155?v=4" alt="MrAbdulSamadDEV" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/arpitrajjj"><img src="https://avatars.githubusercontent.com/u/309271662?v=4" alt="arpitrajjj" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/MahdiKordian"><img src="https://avatars.githubusercontent.com/u/314552004?v=4" alt="MahdiKordian" style="height:50px;width:50px;"/></a>
-<br><h4>last update at : 18/10/2026 06:49:59 (UTC)</h4><br>
+<br><h4>last update at : 19/10/2026 07:09:04 (UTC)</h4><br>
